@@ -15,16 +15,12 @@
 <header>
 <nav>
 <ul>
-    <!-- <li>
-        <a href="./index.html" class="logo">
-            <img src="upec.png" alt="UPEC logo">
-        </a>
-    </li> -->
-    <li class="active"><a href="index.html"><img src="public/CSS/logo_violet.png"></a></li>
-    <li><a href="nos_produits.html">Nos produits</a></li>
-    <li><a href="actualites.html">Actualités</a></li>
-    <li><a href="jeu.html">Jeu</a></li>
-    <li><a href="a_propos_de_nous.html">Jeu</a></li>
+
+    <li class="active"><a href="index.view.php"><img src="public/images/logo_violet.png"></a></li>
+    <li><a href="nos_produits.php">Nos produits</a></li>
+    <li><a href="actualites.php">Actualités</a></li>
+    <li><a href="jeu.php">Jeu</a></li>
+    <li><a href="a_propos_de_nous.php">A propos de nous</a></li>
 
 </ul>
 </nav>
