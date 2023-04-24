@@ -21,7 +21,7 @@ nav ul {
   nav li {
     float: left;
     width:10%;
-    height:60px;
+    height:70px;
   }
 
 nav li a {
@@ -34,13 +34,37 @@ nav li a {
     /* tester d'autres changements ...*/
   }
 
-nav li .active {
-    margin-left: 20%;
+.active {
+    margin-right: 50%;
 }
 
+nav img {
+    height: 70px;
+    width: 150px;
+    margin-top: -11px;
+}
+
+
 #gauche{
+  display: flex;
     list-style-type: none;
     text-decoration: none;
     flex-direction: column;
     justify-content: flex-start;
+}
+
+#reseaux{
+  display: flex;
+  flex-direction: row;
+}
+
+#droite{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+#droite img {
+  max-height: 30px;
+  max-width: 30px;
 }
