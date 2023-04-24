@@ -13,12 +13,13 @@ body {
 
 #background_op{
 text-align: center;
+
 }
 
 #lviolet{
 
     width: 50%;
-
+margin-bottom:5vw;
 }
 
 #btn-1{
@@ -27,4 +28,35 @@ text-align: center;
     padding: 0 20px;
     font-size: 17px;
     background-color: #ffffffe2;
+
 }
+
+#lbout{
+    align-items: center;
+    display: inline-flex;
+}
+
+
+#gauche{
+    display: flex;
+      list-style-type: none;
+      text-decoration: none;
+      flex-direction: column;
+      justify-content: flex-start;
+  }
+
+  #reseaux{
+    display: flex;
+    flex-direction: row;
+  }
+
+  #droite{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+  }
+
+  #droite img {
+    max-height: 30px;
+    max-width: 30px;
+  }
