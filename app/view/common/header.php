@@ -16,7 +16,7 @@
 <nav>
 <ul>
 
-    <li class="active"><a href="index.view.php"><img src="public/images/logo_violet.png"></a></li>
+    <li class="active"><a href="index.view.php"><img src="../../../public/images/logo_violet.png"></a></li>
     <li><a href="nos_produits.php">Nos produits</a></li>
     <li><a href="actualites.php">Actualités</a></li>
     <li><a href="jeu.php">Jeu</a></li>

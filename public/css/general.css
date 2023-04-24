@@ -1,15 +1,28 @@
 @font-face {
     font-family: Roboto_light;
-    src: url(public/font/Roboto-Light.ttf);
+    src: url(../../public/font/Roboto-Light.ttf);
   }
 
 
-nav ul {
+nav {
     font-family: Roboto_light;
-    list-style-type: none;
-    text-decoration: none;
 }
 
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C9C8CB;
+    
+  }
+  
+  nav li {
+    float: left;
+    width:10%;
+    height:60px;
+  }
 
 nav li a {
     display: block;
@@ -21,7 +34,9 @@ nav li a {
     /* tester d'autres changements ...*/
   }
 
-
+nav li .active {
+    margin-left: 20%;
+}
 
 #gauche{
     list-style-type: none;
