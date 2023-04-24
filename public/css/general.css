@@ -48,7 +48,8 @@ nav img {
 
 
 
-#gauche{
+/*#gauche{
+  display: flex;
     list-style-type: none;
     text-decoration: none;
     flex-direction: column;
@@ -103,3 +104,23 @@ nav > ul li:hover .sous{
   height: 1500px;
 }
 -->
+    margin-right: 40%;
+}
+
+#reseaux{
+  display: flex;
+  flex-direction: row;
+}
+
+#droite{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  margin-left: 40%;
+}
+
+#droite img {
+  max-height: 30px;
+  max-width: 30px;
+}*/
+

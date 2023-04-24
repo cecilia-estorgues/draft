@@ -3,7 +3,7 @@ body {
 }
 
 #background_im{
-    background-image: url(../../public/images/background/back_1.png);
+    background-image: url(../../public/images/background/back_1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -11,9 +11,86 @@ body {
     width:99vw;
 }
 
-#background_op{
-    height: 40vw;
-    width:99vw;
-    background-color: white;
-    opacity: 30%;
+#lvioleto{
+text-align: center;
+
 }
+
+#lviolet{
+
+    width: 70%;
+margin-bottom:5vw;
+}
+
+#btn-1{
+    border: 3px solid #FF6700;
+    min-height: 100px;
+    padding: 0 20px;
+    font-size: 25px;
+    width: 15vw;
+    cursor: pointer;
+    background-color: #ffffffe2;
+transition: 2s;
+}
+
+#btn-1:hover{
+background-color: #FF6700;
+}
+
+#lbout{
+    text-align: center;
+}
+
+/*footer*/
+#gauche{
+    align-self: flex-start;
+    display: flex;
+      list-style-type: none;
+      text-decoration: none;
+      flex-direction: column;
+      margin-right: 40%;
+  }
+
+  #reseaux{
+    display: flex;
+    flex-direction: row;
+  }
+
+  #droite{
+    align-self: flex-end;
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    margin-left: 40%;
+  }
+
+  #droite img {
+    max-height: 30px;
+    max-width: 30px;
+  }
+
+  #droite ul li{
+  padding-right: 5%;
+  }
+
+  #droite ul{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+  }
+
+  footer a{
+    text-decoration: none;
+  }
+
+  footer {
+    display: flex;
+  }
+
+  
+.foot{
+    justify-content: space-between;
+  }
+
+  /*fin footer*/

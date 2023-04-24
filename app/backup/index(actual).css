@@ -1,0 +1,69 @@
+body {
+  margin:0;
+}
+
+#background_im{
+  background-image: url(../../public/images/background/back_1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  height: 40vw;
+  width:99vw;
+}
+
+#lvioleto{
+text-align: center;
+
+}
+
+#lviolet{
+
+  width: 70%;
+margin-bottom:5vw;
+}
+
+#btn-1{
+  border: 3px solid #FF6700;
+  min-height: 100px;
+  padding: 0 20px;
+  font-size: 25px;
+  width: 15vw;
+  cursor: pointer;
+  background-color: #ffffffe2;
+transition: 2s;
+}
+
+#btn-1:hover{
+background-color: #FF6700;
+}
+
+#lbout{
+  text-align: center;
+}
+
+/*footer*/
+#gauche{
+  display: flex;
+    list-style-type: none;
+    text-decoration: none;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+#reseaux{
+  display: flex;
+  flex-direction: row;
+}
+
+#droite{
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+#droite img {
+  max-height: 30px;
+  max-width: 30px;
+}
+
+/*fin footer*/
