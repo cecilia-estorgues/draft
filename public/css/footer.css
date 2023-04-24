@@ -1,6 +1,24 @@
+
 #gauche{
-    list-style-type: none;
-    text-decoration: none;
+    display: flex;
+      list-style-type: none;
+      text-decoration: none;
+      flex-direction: column;
+      justify-content: flex-start;
+  }
+  
+  #reseaux{
+    display: flex;
+    flex-direction: row;
+  }
+  
+  #droite{
+    display: flex;
     flex-direction: column;
-    justify-content: flex-start;
-}
+    justify-content: flex-end;
+  }
+  
+  #droite img {
+    max-height: 30px;
+    max-width: 30px;
+  }
