@@ -45,6 +45,7 @@ margin-bottom:5vw;
       list-style-type: none;
       text-decoration: none;
       flex-direction: column;
+      margin-right: 40%;
   }
 
   #reseaux{
@@ -58,6 +59,7 @@ margin-bottom:5vw;
     text-decoration: none;
     display: flex;
     flex-direction: column;
+    margin-left: 40%;
   }
 
   #droite img {
