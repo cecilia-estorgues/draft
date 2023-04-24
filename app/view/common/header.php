@@ -2,8 +2,8 @@
 <html lang="fr">
 <head>
     <title><?= $page_title ?></title>
-    <link rel="stylesheet" href="general.css">
-    <link rel="stylesheet" href="public/CSS/<?= $css ?>">
+    <link rel="stylesheet" href="../../../public/css/general.css">
+    <link rel="stylesheet" href="public/css/<?= $css ?>">
     <meta charset="UTF-8">
     <meta name="keywords" content="bière, brasserie, locale, jeune, dynamique, street art">
     <meta name="author" content="DRAFT">
