@@ -1,11 +1,11 @@
 <footer>
-    <ul id="gauche">
+    <ul id="gauche" class="foot">
         <li><a href="">Nos produits</a></li>
         <li><a href="">Actualités</a></li>
         <li><a href="">Jeu</a></li>
         <li><a href="">A propos de nous</a></li>
     </ul>
-    <ul id="droite">
+    <ul id="droite" class="foot">
         <li>
             <ul id="reseaux">
                 <li><a href="https://twitter.com/BrasserieDraft"><img src="public/images/icones/bgblanc/twitb.png" alt="Twitter"></a></li>

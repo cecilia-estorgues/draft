@@ -37,12 +37,14 @@ margin-bottom:5vw;
 }
 
 
+
+/* footer*/
 #gauche{
+    align-self: flex-start;
     display: flex;
       list-style-type: none;
       text-decoration: none;
       flex-direction: column;
-      justify-content: flex-start;
   }
 
   #reseaux{
@@ -51,12 +53,37 @@ margin-bottom:5vw;
   }
 
   #droite{
+    align-self: flex-end;
+    list-style-type: none;
+    text-decoration: none;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
   }
 
   #droite img {
     max-height: 30px;
     max-width: 30px;
+  }
+
+  #droite ul li{
+  padding-right: 5%;
+  }
+
+  #droite ul{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+  }
+
+  footer a{
+    text-decoration: none;
+  }
+
+  footer {
+    display: flex;
+  }
+
+  
+.foot{
+    justify-content: space-between;
   }
