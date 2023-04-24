@@ -1,6 +1,19 @@
+body {
+    margin:0;
+}
+
 #background_im{
-    background-image: url(public/images/background/back_1.png);
+    background-image: url(../../public/images/background/back_1.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center; ;
+    background-position:center;
+    height: 40vw;
+    width:99vw;
+}
+
+#background_op{
+    height: 40vw;
+    width:99vw;
+    background-color: white;
+    opacity: 30%;
 }
