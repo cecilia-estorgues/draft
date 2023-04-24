@@ -6,7 +6,7 @@ $css='index.css';
 
 
 ob_start();
-include 'view/index.view.php';
+include 'app/view/index.view.php';
 $content=ob_get_clean();
 
-include 'view/common/layout.php';
+include 'app/view/common/layout.php';
