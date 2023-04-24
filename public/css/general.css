@@ -14,7 +14,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #C9C8CB;
+    background-color: #000000;
     
   }
   
@@ -26,7 +26,7 @@ nav ul {
 
 nav li a {
     display: block;
-    color:rgb(11, 2, 2);
+    color:rgb(255, 255, 255);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -44,9 +44,62 @@ nav img {
     margin-top: -11px;
 }
 
+
+
+
+
 #gauche{
     list-style-type: none;
     text-decoration: none;
     flex-direction: column;
     justify-content: flex-start;
 }
+
+a:hover {
+    background-color: #6C10E8;
+    color: white;
+    justify-content: center;
+  transition-duration: 0.5s;
+}
+
+nav ul::after {
+    content:"";
+    display: table;
+    clear: both;
+}
+
+.sous{
+    display: none;
+    box-shadow: 0px 1px 2px #CCC;
+    background-color: #6c10e8;
+    position: absolute;
+    width: 100%;
+    z-index: 1000;
+}
+
+nav > ul li:hover .sous{
+    display: block;
+}
+.sous li{
+    float: none;
+    width: 100%;
+    text-align: left;
+}
+.sous a{
+    padding: 10px;
+    border-bottom: none;
+}
+.sous a:hover{
+    border-bottom: none;
+    background-color: RGBa(200,200,200,0.1);
+}
+.deroulant > a::after{
+    content:" ▼";
+    font-size: 12px;
+}
+
+.conteneur{
+  margin: 50px 20px;
+  height: 1500px;
+}
+-->

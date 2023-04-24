@@ -16,9 +16,21 @@
 <nav>
 <ul>
 
-    <li class="active"><a href="index.php"><img src="../../../public/images/logo_violet.png"></a></li>
-    <li><a href="nos_produits.php">Nos produits</a></li>
-    <li><a href="actualites.php">Actualités</a></li>
+    <li class="active"><a href="index.php"><img src="../../../public/images/logo_violet.png"></a>
+
+    <li class="deroulant"><a href="nos_produits.php">Nos produits</a>
+<ul class="sous">
+    <li><a href="nos_bieres.php">Nos bières</a></li>
+    <li><a href="nos_goodies.php">Nos goodies</a></li>
+</ul>
+</li>
+
+    <li class="deroulant"><a href="actualites.php">Actualités</a>
+<ul class="sous">
+    <li><a href="nos_produit.php">Nos produits</a></li>
+    <li><a href="evenements.php">Evenements</a></li>
+</ul>
+</li>    
     <li><a href="jeu.php">Jeu</a></li>
     <li><a href="a_propos_de_nous.php">A propos de nous</a></li>
 
