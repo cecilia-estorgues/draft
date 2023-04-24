@@ -11,32 +11,37 @@ body {
     width:99vw;
 }
 
-#background_op{
+#lvioleto{
 text-align: center;
 
 }
 
 #lviolet{
 
-    width: 50%;
+    width: 70%;
 margin-bottom:5vw;
 }
 
 #btn-1{
     border: 3px solid #FF6700;
-    min-height: 50px;
+    min-height: 100px;
     padding: 0 20px;
-    font-size: 17px;
+    font-size: 25px;
+    width: 15vw;
+    cursor: pointer;
     background-color: #ffffffe2;
+transition: 2s;
+}
 
+#btn-1:hover{
+background-color: #FF6700;
 }
 
 #lbout{
-    align-items: center;
-    display: inline-flex;
+    text-align: center;
 }
 
-
+/*footer*/
 #gauche{
     display: flex;
       list-style-type: none;
@@ -60,3 +65,5 @@ margin-bottom:5vw;
     max-height: 30px;
     max-width: 30px;
   }
+
+  /*fin footer*/
