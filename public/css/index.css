@@ -70,4 +70,27 @@ background-color: #FF6700;
     max-width: 30px;
   }
 
+  #droite ul li{
+  padding-right: 5%;
+  }
+
+  #droite ul{
+    list-style-type: none;
+    text-decoration: none;
+    padding: 0;
+  }
+
+  footer a{
+    text-decoration: none;
+  }
+
+  footer {
+    display: flex;
+  }
+
+  
+.foot{
+    justify-content: space-between;
+  }
+
   /*fin footer*/
