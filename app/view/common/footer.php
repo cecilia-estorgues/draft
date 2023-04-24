@@ -8,10 +8,10 @@
     <ul>
         <li>
             <ul>
-                <li><a href=""><img src="" alt="Twitter"></a></li>
-                <li><a href=""><img src="" alt="Facebook"></a></li>
-                <li><a href=""><img src="" alt="Instagram"></a></li>
-                <li><a href=""><img src="" alt="Tiktok"></a></li>
+                <li><a href="https://twitter.com/BrasserieDraft"><img src="public/images/icones/bgblanc/twitb.png" alt="Twitter"></a></li>
+                <li><a href="https://www.facebook.com/profile.php?id=100091677226742"><img src="public/images/icones/bgblanc/fbb.png" alt="Facebook"></a></li>
+                <li><a href="https://www.instagram.com/brasserie.draft/"><img src="public/images/icones/bgblanc/instab.png" alt="Instagram"></a></li>
+                <li><a href="https://www.tiktok.com/@brasserie_draft"><img src="public/images/icones/bgblanc/tiktok.png" alt="Tiktok"></a></li>
             </ul>
         </li>
         <li>draft.brasserie@gmail.com</li>
