@@ -3,7 +3,7 @@ body {
 }
 
 #background_im{
-    background-image: url(../../public/images/background/back_1.png);
+    background-image: url(../../public/images/background/back_1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
@@ -12,8 +12,19 @@ body {
 }
 
 #background_op{
-    height: 40vw;
-    width:99vw;
-    background-color: white;
-    opacity: 30%;
+text-align: center;
+}
+
+#lviolet{
+
+    width: 50%;
+
+}
+
+#btn-1{
+    border: 3px solid #FF6700;
+    min-height: 50px;
+    padding: 0 20px;
+    font-size: 17px;
+    background-color: #ffffffe2;
 }
