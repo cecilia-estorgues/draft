@@ -44,7 +44,9 @@ nav img {
     margin-top: -11px;
 }
 
-footer ul{
+#gauche{
     list-style-type: none;
     text-decoration: none;
+    flex-direction: column;
+    justify-content: flex-start;
 }
