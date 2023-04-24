@@ -43,11 +43,12 @@ background-color: #FF6700;
 
 /*footer*/
 #gauche{
+    align-self: flex-start;
     display: flex;
       list-style-type: none;
       text-decoration: none;
       flex-direction: column;
-      justify-content: flex-start;
+      margin-right: 40%;
   }
 
   #reseaux{
@@ -56,9 +57,12 @@ background-color: #FF6700;
   }
 
   #droite{
+    align-self: flex-end;
+    list-style-type: none;
+    text-decoration: none;
     display: flex;
     flex-direction: column;
-    justify-content: flex-end;
+    margin-left: 40%;
   }
 
   #droite img {

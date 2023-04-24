@@ -51,6 +51,7 @@ nav img {
     text-decoration: none;
     flex-direction: column;
     justify-content: flex-start;
+    margin-right: 40%;
 }
 
 #reseaux{
@@ -62,9 +63,11 @@ nav img {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
+  margin-left: 40%;
 }
 
 #droite img {
   max-height: 30px;
   max-width: 30px;
 }
+
