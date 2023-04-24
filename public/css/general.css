@@ -21,7 +21,7 @@ nav ul {
   nav li {
     float: left;
     width:10%;
-    height:60px;
+    height:70px;
   }
 
 nav li a {
@@ -34,8 +34,14 @@ nav li a {
     /* tester d'autres changements ...*/
   }
 
-nav li .active {
-    margin-left: 20%;
+.active {
+    margin-right: 50%;
+}
+
+nav img {
+    height: 70px;
+    width: 150px;
+    margin-top: -11px;
 }
 
 footer ul{
