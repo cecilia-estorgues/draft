@@ -5,5 +5,5 @@
 </head>
 <body>
 <header>
-    <link rel="stylesheet" href="general.css">
+    <link rel="stylesheet" href="public/css/general.css">
 </header>
