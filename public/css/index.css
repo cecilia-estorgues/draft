@@ -41,6 +41,91 @@ background-color: #FF6700;
     text-align: center;
 }
 
+
+
+
+
+
+
+
+
+
+.grouping{
+  margin-top:2vw;
+  margin-left:3vw;
+  margin-right:3vw;
+  text-align: center;
+}
+
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-web img {
+  width: 258%;
+}
+
+.box-web {
+  width:200px ;
+}
+
+.row {
+  display:flex;
+  flex-wrap: wrap;
+  gap: 43px;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+.row::after {   /*Contenu fantome afin de mettre les icônes en evenly*/
+  content: "";
+  width: 750px;  
+}
+
+.content {
+  margin-top:4.5%;
+   width: 100%;
+   height: fit-content;
+   margin-right: 12.5%;
+ }
+
+#feuille{
+  width: 4vw;
+  position: absolute; /*petit prob niveau abaissement taille*/
+  left:30vw;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+#map1{
+  border-radius: 32px;
+  margin-top:1vw;
+}
+
+#tache_profil{
+  background-image: url(../../public/images/background/peint_bleu.png);
+  background-repeat:no-repeat;
+  background-size:35vw;
+  background-position:center;
+  height: 19vw;
+  width:92vw;
+  margin-top:2vw;
+}
+
+#tache_profil p{
+  font-size:1.5vw;
+}
+
+
+
+
+
 /*footer*/
 #gauche{
     align-self: flex-start;
@@ -94,3 +179,6 @@ background-color: #FF6700;
   }
 
   /*fin footer*/
+
+
+  
