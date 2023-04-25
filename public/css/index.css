@@ -108,8 +108,19 @@ h1 {
   margin-top:1vw;
 }
 
+#tache_profil{
+  background-image: url(../../public/images/background/peint_bleu.png);
+  background-repeat:no-repeat;
+  background-size:35vw;
+  background-position:center;
+  height: 19vw;
+  width:92vw;
+  margin-top:2vw;
+}
 
-
+#tache_profil p{
+  font-size:1.5vw;
+}
 
 
 
