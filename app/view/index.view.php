@@ -1,6 +1,5 @@
 <main>
     <section>
-        <p>test</p>
 
         <div id="background_im">
             <div id="background_op">
@@ -64,7 +63,7 @@
 
     <section class="grouping">
 
-        <h1><!--<img src="public/images/dessins/feuilles.png" id="feuille"> --> <div id="feuille2"></div>NOS PRODUCTEURS LOCAUX</h1>
+        <h1><img src="public/images/dessins/feuilles.png" id="feuille"> </div>NOS PRODUCTEURS LOCAUX</h1>
         <img src="public/images/background/product_map.png" id="map1">
         <div id="tache_profil">
 <p></br></br>Nous sommes en partenariat avec des producteurs </br> locaux proches de notre brasserie qui </br>

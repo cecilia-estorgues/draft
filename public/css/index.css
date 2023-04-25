@@ -81,11 +81,6 @@ background-color: #FF6700;
   align-items: flex-start;
 }
 
-.row::after {   /*Contenu fantome afin de mettre les icônes en evenly*/
-  content: "";
-  width: 750px;  
-}
-
 .content {
   margin-top:4.5%;
    width: 100%;
@@ -97,15 +92,6 @@ background-color: #FF6700;
   width: 4vw;
   position: absolute; /*petit prob niveau abaissement taille*/
   left:30vw;
-}
-
-#feuille2{
-  background-image:url(../../public/images/dessins/feuilles.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size:2vw;
-  height: 6vw;
-  width:122vw;
 }
 
 h1 {
