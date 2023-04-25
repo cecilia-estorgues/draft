@@ -1,0 +1,29 @@
+#title{
+    text-align: center;
+}
+
+
+#gauche{
+    float:left;
+}
+
+#gauche1 img{
+width: 65%;
+
+}
+
+#droite1{
+    float:right;
+
+}
+
+#droite1 img{
+    width: 110%;
+}
+
+#contain1{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
