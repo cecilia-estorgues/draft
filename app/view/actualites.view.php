@@ -11,7 +11,6 @@
 </div>
 <div id="droite1"><img src="public/images/mockup/butineuse_vmaxou.png">
 </div>
-
 </div>
 
 </section>
