@@ -126,7 +126,7 @@ body{
   /*footer*/
 #gauche{
   justify-content: flex-start;
-  margin-right: 50%;
+  margin-right: 48%;
 }
 
 #reseaux{
@@ -199,6 +199,8 @@ footer a:hover {
 color: #6C10E8;
 }
 
-
+#reseaux img:hover{
+  transform: scale(1.1);
+}
 
 /*fin footer*/

@@ -14,7 +14,7 @@
 <nav id="wrap">
       <ul class="navbar">
         <li class="active">
-          <a href="index.php"><img class="logo" src="public/images/logo_violet.png"></a>
+          <a href="index.php"><img class="logo" src="public/images/Logo/logo_violet.png"></a>
         </li>
         <li>
           <a class= "survole" href="nos_produits.php">Nos produits</a>
