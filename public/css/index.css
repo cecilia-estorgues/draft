@@ -11,7 +11,7 @@ body {
     background-size: cover;
     background-position:center;
     height: 40vw;
-    width:99vw;
+    width:100vw;
 }
 
 #lvioleto{
@@ -78,7 +78,7 @@ background-color: #FF6700;
 .row {
   display:flex;
   flex-wrap: wrap;
-  gap: 42px;
+  gap: 4px;
   flex-direction: row;
   justify-content: space-around;
   align-items: flex-start;
@@ -88,9 +88,25 @@ background-color: #FF6700;
   margin-top:4.5%;
    width: 100%;
    height: fit-content;
-   margin-right: 12.5%;
-   background-color: #FF6700;
+   margin-right: 15.5%;
+   margin-left:-12.5%;
  }
+
+
+#tache_1{
+  background-image: url(../../public/images/background/peint_rose.png);
+  background-repeat:no-repeat;
+  background-size:35vw;
+  background-position:center;
+  height: 19vw;
+  width:92vw;
+  margin-top:2vw;
+  margin-bottom: 4vw;
+}
+
+#tache_1 p{
+  font-size:1.5vw;
+}
 
 #feuille{
   width: 4vw;

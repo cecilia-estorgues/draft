@@ -49,13 +49,19 @@
                     <div class="box-web">
                         <img src="public/images/mockup/lime.png">
                     </div>
+                    <div class="box-web">
+                        <img src="public/images/mockup/luciole.png">
+                    </div>
                 </div>
             </div>
         </div>
 
         <div id="tache_1">
+<p></br></br>Nous sommes en partenariat avec des producteurs </br> locaux proches de notre brasserie qui </br>
+se situe à Moissy.
+</br></br>Nous privilégions les circuits courts pour </br> diminuer notre émission de gaz à effet de serre.</p>
 
-        </div>
+</div>
 
     </section>
 
