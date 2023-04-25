@@ -1,4 +1,5 @@
 <footer>
+    <img src="public/images/background/back_1foot.png" class="imgfoot" alt="ensemble de dessins Draft">
     <ul id="gauche" class="foot">
         <li><a href="">Nos produits</a></li>
         <li><a href="">Actualités</a></li>

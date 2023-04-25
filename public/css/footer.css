@@ -1,50 +1,60 @@
 #gauche{
-    align-self: flex-start;
-    display: flex;
-      list-style-type: none;
-      text-decoration: none;
-      flex-direction: column;
-      margin-right: 40%;
-  }
-
-  #reseaux{
-    display: flex;
-    flex-direction: row;
-  }
-
-  #droite{
-    align-self: flex-end;
+  align-self: flex-start;
+  display: flex;
     list-style-type: none;
     text-decoration: none;
-    display: flex;
     flex-direction: column;
-    margin-left: 40%;
-  }
+}
 
-  #droite img {
-    max-height: 30px;
-    max-width: 30px;
-  }
+#reseaux{
+  display: flex;
+  flex-direction: row;
+}
 
-  #droite ul li{
-  padding-right: 5%;
-  }
+#droite{
+  align-self: flex-end;
+  list-style-type: none;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+}
 
-  #droite ul{
-    list-style-type: none;
-    text-decoration: none;
-    padding: 0;
-  }
+#droite img {
+  max-height: 30px;
+  max-width: 30px;
+}
 
-  footer a{
-    text-decoration: none;
-  }
+#droite ul li{
+padding-right: 5%;
+}
 
-  footer {
-    display: flex;
-  }
+#droite ul{
+  list-style-type: none;
+  text-decoration: none;
+  padding: 0;
+}
 
-  
+footer a{
+  text-decoration: none;
+}
+
+footer {
+  display: flex;
+}
+
+footer div {
+  display: flex;
+}
+
+
 .foot{
-    justify-content: space-between;
-  }
+  justify-content: space-between;
+}
+
+.imgfoot{
+  width: 25% ;
+}
+
+footer ul{
+  padding: 0;
+}
