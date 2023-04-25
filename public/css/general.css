@@ -3,6 +3,9 @@
     src: url(../../public/font/Roboto-Light.ttf);
   }
 
+body{
+  margin:0;
+}
 
   #wrap {
     width: 100%;
