@@ -49,7 +49,16 @@ background-color: #FF6700;
 
 
 
-
+#btn-2{
+  border: 3px solid #FFFF03;
+  min-height: 60px;
+  padding: 0 20px;
+  font-size: 25px;
+  width: 10vw;
+  cursor: pointer;
+  background-color: #FFFF03;
+  box-shadow: 0px 4px 10px #ffff03c9;
+}
 
 
 
