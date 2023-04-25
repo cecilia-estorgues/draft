@@ -64,13 +64,14 @@
 
     <section class="grouping">
 
-        <h1><img src="public/images/icones/divers/feuilles.png" id="feuille"> NOS PRODUCTEURS LOCAUX</h1>
+        <h1><!--<img src="public/images/dessins/feuilles.png" id="feuille"> --> <div id="feuille2"></div>NOS PRODUCTEURS LOCAUX</h1>
         <img src="public/images/background/product_map.png" id="map1">
         <div id="tache_profil">
 <p></br></br>Nous sommes en partenariat avec des producteurs </br> locaux proches de notre brasserie qui </br>
 se situe à Moissy.
 </br></br>Nous privilégions les circuits courts pour </br> diminuer notre émission de gaz à effet de serre.</p>
-        </div>
+<div class="fleur"></div>
+</div>
     </section>
 
 

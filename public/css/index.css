@@ -65,7 +65,7 @@ background-color: #FF6700;
 }
 
 .box-web img {
-  width: 258%;
+  width: 288%;
 }
 
 .box-web {
@@ -99,6 +99,15 @@ background-color: #FF6700;
   left:30vw;
 }
 
+#feuille2{
+  background-image:url(../../public/images/dessins/feuilles.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:2vw;
+  height: 6vw;
+  width:122vw;
+}
+
 h1 {
   font-size: 40px;
 }
@@ -106,6 +115,7 @@ h1 {
 #map1{
   border-radius: 32px;
   margin-top:1vw;
+  width: 67%;
 }
 
 #tache_profil{
@@ -116,6 +126,7 @@ h1 {
   height: 19vw;
   width:92vw;
   margin-top:2vw;
+  margin-bottom: 4vw;
 }
 
 #tache_profil p{
@@ -123,7 +134,14 @@ h1 {
 }
 
 
-
+.fleur{
+  background-image:url(../../public/images/dessins/fleur.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:2vw;
+  height: 6vw;
+  width:122vw;
+}
 
 
 /*footer*/
