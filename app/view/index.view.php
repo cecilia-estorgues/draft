@@ -57,9 +57,9 @@
         </div>
 
         <div id="tache_1">
-<p></br></br>Nous sommes en partenariat avec des producteurs </br> locaux proches de notre brasserie qui </br>
-se situe à Moissy.
-</br></br>Nous privilégions les circuits courts pour </br> diminuer notre émission de gaz à effet de serre.</p>
+<p></br></br>Nos produits sont réalisés avec des ingrédients 100% </br> naturels.
+</br></br>Nos bouteilles sont entièrement recyclables.</p>
+<button id="btn-2">Nos produits</button>
 
 </div>
 
