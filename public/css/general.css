@@ -24,7 +24,7 @@
     float: left;
     text-align: center;
     list-style: none;
-    font: Roboto_light;
+    font-family: Roboto_light;
     padding: 0;
     margin: 0;
     /* background-color: #4444;*/
@@ -62,7 +62,7 @@
 */
 
   .navbar li:hover,
-  a:hover {
+  .survole:hover {
     background-color: #6C10E8;
     transition-duration: 0.5s;
   }

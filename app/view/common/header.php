@@ -2,7 +2,7 @@
 <html lang="fr">
 <head>
     <title><?= $page_title ?></title>
-    <link rel="stylesheet" href="../../../public/css/general.css">
+    <link rel="stylesheet" href="public/css/general.css">
     <link rel="stylesheet" href="public/css/<?= $css ?>">
     <meta charset="UTF-8">
     <meta name="keywords" content="bière, brasserie, locale, jeune, dynamique, street art">
@@ -14,27 +14,27 @@
 <nav id="wrap">
       <ul class="navbar">
         <li class="active">
-          <a href="index.php"><img class="logo" src="../../../public/images/logo_violet.png"></a>
+          <a href="index.php"><img class="logo" src="public/images/logo_violet.png"></a>
         </li>
         <li>
-          <a href="nos_produits.php">Nos produits</a>
+          <a class= "survole" href="nos_produits.php">Nos produits</a>
           <ul>
-            <li><a href="nos_bieres.php">Nos bières</a></li>
-            <li><a href="nos_goodies.php">Nos goodies</a></li>
+            <li><a class= "survole" href="nos_bieres.php">Nos bières</a></li>
+            <li><a class= "survole" href="nos_goodies.php">Nos goodies</a></li>
           </ul>
         </li>
         <li>
-        <a href="actualites.php">Actualités</a>
+        <a class= "survole" href="actualites.php">Actualités</a>
           <ul>
-            <li><a href="nos_produit.php">Nos produits</a></li>
-            <li><a href="evenements.php">Evenements</a></li>
+            <li><a class= "survole" href="nos_produit.php">Nos produits</a></li>
+            <li><a class= "survole" href="evenements.php">Evenements</a></li>
           </ul>
         </li>
             <li>
-              <a href="jeu.php">Jeu</a>
+              <a class= "survole" href="jeu.php">Jeu</a>
             </li>
             <li>
-            <a href="a_propos_de_nous.php">A propos de nous</a>
+            <a class= "survole" href="a_propos_de_nous.php">A propos de nous</a>
             </li>
           
        
