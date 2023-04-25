@@ -1,5 +1,8 @@
 body {
     margin:0;
+    
+      overflow-x:hidden;
+      
 }
 
 #background_im{
@@ -75,7 +78,7 @@ background-color: #FF6700;
 .row {
   display:flex;
   flex-wrap: wrap;
-  gap: 43px;
+  gap: 42px;
   flex-direction: row;
   justify-content: space-around;
   align-items: flex-start;
@@ -86,6 +89,7 @@ background-color: #FF6700;
    width: 100%;
    height: fit-content;
    margin-right: 12.5%;
+   background-color: #FF6700;
  }
 
 #feuille{
