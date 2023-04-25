@@ -27,7 +27,7 @@
 
 
 
-    <section id="grouping">
+    <section class="grouping">
         
         <h1>DES PRODUITS DE QUALITÉS</h1>
         
@@ -54,5 +54,21 @@
                         </div>
         </div>
 
+<div id="tache_1">
+
+</div>
+
     </section>
+
+
+
+    <section class="grouping">
+
+<h1><img src="public/images/icones/divers/feuilles.png" id="feuille"> NOS PRODUCTEURS LOCAUX</h1>
+<img src="public/images/background/product_map.png" id="map1">
+    </section>
+
+
+
+
 </main>

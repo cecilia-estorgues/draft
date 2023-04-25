@@ -50,7 +50,7 @@ background-color: #FF6700;
 
 
 
-#grouping{
+.grouping{
   margin-top:2vw;
   margin-left:3vw;
   margin-right:3vw;
@@ -90,9 +90,30 @@ background-color: #FF6700;
   margin-top:4.5%;
    width: 100%;
    height: fit-content;
-
    margin-right: 12.5%;
  }
+
+#feuille{
+  width: 4vw;
+  position: absolute;
+  left:30vw;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+#map1{
+  border-radius: 32px;
+  margin-top:1vw;
+}
+
+
+
+
+
+
+
 
 /*footer*/
 #gauche{
