@@ -20,4 +20,39 @@
     
 
     </section>
+
+
+
+
+
+
+
+    <section id="grouping">
+        
+        <h1>DES PRODUITS DE QUALITÉS</h1>
+        
+        <div class="container">
+                        <div class="content">
+
+                            <div class="row">
+                                <div class="box-web">
+                                    <img src="public/images/mockup/fraise.png">
+                                </div>
+                                <div class="box-web">
+                                    <img src="public/images/mockup/cherry_pop.png">
+                                </div>
+                                <div class="box-web">
+                                    <img src="public/images/mockup/zero.png">
+                                </div>
+                                <div class="box-web">
+                                    <img src="public/images/mockup/bubble_gum.png">
+                                </div>
+                                <div class="box-web">
+                                    <img src="public/images/mockup/lime.png">
+                                </div>
+                            </div>
+                        </div>
+        </div>
+
+    </section>
 </main>
