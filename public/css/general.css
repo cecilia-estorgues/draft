@@ -126,7 +126,6 @@ body{
   /*footer*/
 #gauche{
   justify-content: flex-start;
-  margin-right: 48%;
 }
 
 #reseaux{
@@ -141,6 +140,7 @@ justify-content: flex-end;
 #droite img {
 max-height: 30px;
 max-width: 30px;
+right: 2%;
 }
 
 #reseaux li{
