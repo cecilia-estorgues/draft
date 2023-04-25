@@ -1,24 +1,58 @@
+body{
+    overflow-x:hiden;
+
+}
+
 #title{
     text-align: center;
+    width: 85vw;
+    font-size:20px;
 }
 
 
 
 
 #gauche1 img{
-width: 65%;
+width: 105%;
+height:180%;
+}
+
+#gauche1{
+float:left;
 
 }
 
+#droite1{
+    float:right;
+}
 
 #droite1 img{
-    width: 110%;
-    
+    width: 90%;
+    padding-left:8vw;
 }
 
 #contain1{
     display:flex;
     justify-content:center;
     align-items:center;
+  
 }
 
+#contain2{
+    content: "";
+        display: table;
+        clear: both;
+
+}
+
+#tit #gauche1, #droite1 {
+    
+    height: 350px;
+    width: 40%;
+    
+margin-bottom:50vw;
+}
+
+#tit #gauche1{
+    padding-left:5vw; 
+}
