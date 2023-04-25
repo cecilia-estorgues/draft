@@ -51,9 +51,9 @@ background-color: #FF6700;
 
 #btn-2{
   border: 3px solid #FFFF03;
-  min-height: 60px;
+  min-height: 40px;
   padding: 0 20px;
-  font-size: 25px;
+  font-size: 1vw;
   width: 10vw;
   cursor: pointer;
   background-color: #FFFF03;
@@ -119,7 +119,7 @@ background-color: #FF6700;
 
 #feuille{
   width: 4vw;
-  position: absolute; /*petit prob niveau abaissement taille*/
+ /*petit prob niveau abaissement taille*/
   left:30vw;
 }
 

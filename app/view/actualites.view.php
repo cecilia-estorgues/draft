@@ -9,9 +9,8 @@
 <div id="gauche1">
 <img src="public/images/background/tache_jaune.png">
 </div>
-<div id="droite1"><img src="public/images/mockup/butineuse.png">
+<div id="droite1"><img src="public/images/mockup/butineuse_vmaxou.png">
 </div>
-
 </div>
 
 </section>
