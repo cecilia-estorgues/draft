@@ -3,20 +3,29 @@
     src: url(../../public/font/Roboto-Light.ttf);
   }
 
-
+  @font-face {
+    font-family: Delliger;
+    src: url(../../public/font/DELLIGER-PersonalUse.otf);
+  }
 
   main{
     background-color: #ffffff;
-      background-image: url('public/police/fond.png');
+      /*background-image: url('public/police/fond.png');
       background-size: 80%;
       background-repeat: no-repeat;
       background-attachment: scroll;
       background-position: top;
       max-width: 100%;
-      max-height: 100%;
+      max-height: 100%;*/
     }
     
-    
+   p {
+    padding-left: 10%;
+    padding-right: 10%;
+    text-align:center;
+   } 
+
+
     #titre {
         margin: 0%;
     }
@@ -25,16 +34,16 @@
         padding: 0;
     }
     h2 {
-    font-family: Roboto_light;
-    font-style: medium;
-    font-weight: 800;
-    font-size: 45px;
-    line-height: 60px;
-    align-items: center;
-    text-align: center;
-    letter-spacing: 0.005em;
-    color: #000000;
-    margin: 0%;
+      font-family: Delliger;
+      /* font-weight: 800; */
+      font-size: 45px;
+      /* line-height: 60px; */
+      align-items: center;
+      text-align: left;
+      letter-spacing: 0.005em;
+      color: #000000;
+      margin: 0%;
+      padding-left: 5%;
     }
     
     .ligne {
@@ -52,7 +61,7 @@
     .ligne li {
       text-align: center;
       padding: 5%;
-      font-family: 'MADE TOMMY';
+      font-family: Roboto_light;
       
     }
     

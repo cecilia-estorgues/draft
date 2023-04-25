@@ -1,6 +1,6 @@
 <main>
 <section>
-
+<img src="public/images/background/back_1foot.png">
 
 
 
@@ -33,6 +33,8 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 
 
 <section class="personnages">
+<h2>Notre équipe</h2>
+
 <div class="ligne">
     <ul>
 <li>
