@@ -32,7 +32,52 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 </section>
 
 
+<section class="personnages">
+<div class="ligne">
+    <ul>
+<li>
+    <a href="bubble.php"><img src="public\images\photo_snap\6.png"></a> 
+    <p>Bubble</p>
+</li> 
 
+<li><a href="lime.php"><img src="public\images\photo_snap\4.png"></a> 
+    <p>Lime</p>
+</li>
+
+<li><a href="cherry_pop.php"><img src="public\images\photo_snap\5.png"></a> 
+    <p>Cherry pop</p>
+<li>
+
+</ul>
+
+</div>
+
+<div class="ligne">
+    <ul>
+
+    <li>
+        <a href="fraise.php"><img src="public\images\photo_snap\2.png"></a>
+        <p>Fraise</p>
+    </li>
+
+    <li>
+        <a href="zero.php"><img src="public\images\photo_snap\3.png"></a>
+        <p>Zero</p>
+    </li>
+
+    <li>
+        <a href="luciole.php"><img src="public\images\photo_snap\1.png"></a>
+        <p>Luciole</p></li>
+</ul>
+
+</div>
+</main>
+
+
+
+
+
+</section>
 
 
 

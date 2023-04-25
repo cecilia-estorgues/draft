@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Roboto_light;
+    src: url(../../public/font/Roboto-Light.ttf);
+  }
+
+
+
+  main{
+    background-color: #fff6ed;
+      background-image: url('public/police/fond.png');
+      background-size: 80%;
+      background-repeat: no-repeat;
+      background-attachment: scroll;
+      background-position: top;
+      max-width: 100%;
+      max-height: 100%;
+    }
+    
+    
+    #titre {
+        margin: 0%;
+    }
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    h2 {
+    font-family: Roboto_light;
+    font-style: medium;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 60px;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.005em;
+    color: #000000;
+    margin: 0%;
+    }
+    
+    .ligne {
+      display: inline-block;
+      width: 50%;
+      margin-left: 15%;
+      
+    }
+    
+    .ligne ul {
+      display: flex;
+      list-style-type: none;
+    }
+    
+    .ligne li {
+      text-align: center;
+      padding: 5%;
+      font-family: 'MADE TOMMY';
+      
+    }
+    
+    .ligne img {
+      height : 150px;
+      
+    }
