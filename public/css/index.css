@@ -95,7 +95,7 @@ background-color: #FF6700;
 
 #feuille{
   width: 4vw;
-  position: absolute;
+  position: absolute; /*petit prob niveau abaissement taille*/
   left:30vw;
 }
 
