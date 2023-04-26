@@ -94,16 +94,20 @@ padding-left:105vw;
         display: table;
         clear: both;
 align-items: center;
-
+margin-top:3vw;
 }
 
 #tit2 #gauche2, #droite2 {
     
-    height: 600px;
     
-margin-bottom:50vw;
+    
+margin-bottom:vw;
 }
 
 #tit2 #gauche2{
     padding-left:5vw; 
+}
+
+#tit2 #droite2{
+    height: 60vw;
 }
