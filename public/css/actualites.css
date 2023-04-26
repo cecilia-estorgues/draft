@@ -1,11 +1,11 @@
 body{
-    overflow-x:hiden;
+    overflow-x:hidden;
 
 }
 
 #title{
     text-align: center;
-    width: 85vw;
+    width: vw;
     font-size:20px;
 }
 
@@ -13,8 +13,8 @@ body{
 
 
 #gauche1 img{
-width: 105%;
-height:180%;
+width: 50vw;
+height:48vw;
 }
 
 #gauche1{
