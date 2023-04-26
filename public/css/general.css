@@ -3,6 +3,10 @@
     src: url(../../public/font/Roboto-Light.ttf);
   }
 
+  @font-face {
+    font-family: Delliger;
+    src: url(../../public/font/DELLIGER-PersonalUse.otf);
+  }
 
 /*Scrollbar*/
 /* Firefox */
