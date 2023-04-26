@@ -8,6 +8,10 @@
     src: url(../../public/font/DELLIGER-PersonalUse.otf);
   }
 
+section {
+  margin-bottom: 100px
+}
+
   main{
     background-color: #ffffff;
       /*background-image: url('public/police/fond.png');
@@ -28,7 +32,7 @@
    img{
     height:100%;
     width:100%;
-    margin-bottom: 60px;
+    margin-bottom: 3px;
    }
 
     body {
@@ -66,8 +70,8 @@
 
     .ligne {
       display: inline-block;
-      width: 50%;
-      margin-left: 15%;
+      width: 60%;
+      margin-left: 24%;
       
     }
     
@@ -78,7 +82,8 @@
     
     .ligne li {
       text-align: center;
-      padding: 5%;
+      padding-right: 5%;
+      padding-left: 5%;
       font-family: Roboto_light;
       
     }
