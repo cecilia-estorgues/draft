@@ -3,7 +3,7 @@
     <ul id="gauche" class="foot">
         <li><a href="nos_produits.php">Nos produits</a></li>
         <li><a href="actualites.php">Actualités</a></li>
-        <li><a href="">Jeu</a></li>
+        <li><a href="jeu.php">Jeu</a></li>
         <li><a href="a_propos_de_nous.php">A propos de nous</a></li>
     </ul>
     <ul id="droite" class="foot">
