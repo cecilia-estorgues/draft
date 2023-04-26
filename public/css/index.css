@@ -1,8 +1,12 @@
 body {
     margin:0;
     
-      overflow-x:hidden;
+      overflow-x:hiden;
       
+}
+
+h1, p{
+  font-family: 'arial';
 }
 
 #background_im{
@@ -10,20 +14,48 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-position:center;
-    height: 40vw;
+    height: 42vw;
+    width:100vw;
+}
+
+#background_im0{
+  background-image: url(../../public/images/background/back_cc.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position:center;
+    height: 50vw;
     width:100vw;
 }
 
 #lvioleto{
 text-align: center;
+margin-left:11vw;
+margin-right:11vw;
+color:white;
+}
+
+#lvioleto h2{
+  padding-top:10vw;
+  font-family:'DELLIGER', arial;
+  color:white;
+  font-size: 4vw;
 
 }
 
 #lviolet{
 
     width: 70%;
-margin-bottom:5vw;
+margin-bottom:vw;
 }
+
+
+
+
+
+
+
+
+
 
 #btn-1{
     border: 3px solid #FF6700;
@@ -114,7 +146,7 @@ background-color: #FF6700;
 }
 
 #tache_1 p{
-  font-size:1.5vw;
+  font-size:1.4vw;
 }
 
 #feuille{
@@ -145,7 +177,7 @@ h1 {
 }
 
 #tache_profil p{
-  font-size:1.5vw;
+  font-size:1.4vw;
 }
 
 
