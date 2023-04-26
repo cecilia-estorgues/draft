@@ -58,14 +58,14 @@ section {
       width:100vw;*/
     }
     
-/*.fond {
- background-image: url(public/images/background/tache_rose.png);
-      background-repeat: no-repeat;
-      background-size: cover;
-      background-position:center;
-      height: 40vw;
-      width:100vw;
-}*/
+.fond {
+  background-image: url(../images/background/tache_rose.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-position: center; */
+  height: 150px;
+  width: 400px;
+}
 
 
     .ligne {
