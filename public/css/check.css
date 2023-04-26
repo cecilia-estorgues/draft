@@ -37,6 +37,7 @@ div {
     border-radius: 10%;
     font-size: 1.5em;
     padding-top: 50px;
+    color: black;
 }
 
 div:hover{

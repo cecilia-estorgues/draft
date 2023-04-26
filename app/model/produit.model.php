@@ -8,3 +8,9 @@ $results = $query->fetchAll();
 
 return $results;
 }
+
+function convertType2Class(string $type): string
+{
+    $str = strtolower($type);
+    return preg_replace('/(é|è)/', 'e', $str);   
+}

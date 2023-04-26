@@ -18,6 +18,7 @@ FOREIGN KEY (num_client) REFERENCES client (num_client)
 
 CREATE TABLE IF NOT EXISTS produit (
 reference integer PRIMARY KEY,
+type varchar(50) NOT NULL,
 nom_produit varchar(50) NOT NULL,
 description varchar(3000) NOT NULL,
 prix varchar(50) NOT NULL,
