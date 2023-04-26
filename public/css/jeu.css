@@ -33,8 +33,6 @@ a{
     
 }
 #img{
-    justify-content: center;
-    width: 900px;
-    height: 900px; 
-    justify-content: center;
+    width: 70%;
+ margin-left: 15%;
   }
