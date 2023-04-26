@@ -5,6 +5,8 @@
 
     <section>
 
+
+    <!--Secours image au cas où
         <div id="background_im">
             <div id="background_op">
                 <div id="lvioleto">
@@ -17,22 +19,22 @@
                 </div>
             </div>
         </div>
-
-    </section>
+-->
+    
 
 
     <video class="bg-video" autoplay loop muted>
-            <source src="public/animation_inst.mp4" type="video/mp4"> Background of a snowy mountain
+            <source src="public/carous.mp4" type="video/mp4"> Background of a snowy mountain
         </video>
 
         <div id="txt-t">
         <h2 class="txt2">Faites exploser vos couleurs</h2>
                     <h3 class="txt3">Bienvenue chez nous, la micro-brasserie de Moissy-Cramayel</h3>
         <p class="txt">Nous sommes une jeune équipe de 10 camarades, qui vient de créer ses propres bières originelles et atypiques, et qui
-                        à décider d'installer sa brasserie dans la ville de Moissy-Cramayel dans le 77. Nous vous attendons nombreux avec votre
+                        à décider d'installer sa brasserie dans la ville de </br> Moissy-Cramayel dans le 77. Nous vous attendons nombreux avec votre
                         créativité et vos pensées positives pour venir gouter notre production.</p></div>
 
-
+                        </section>
 
 
     <section class="grouping">
