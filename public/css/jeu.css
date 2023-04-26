@@ -7,7 +7,8 @@ h1{
 .img{
     width: 400px;
     height: 400px;
-    margin-bottom: 200px;
+    margin: 0 0 200px 0;
+
 }
 p{
     text-align: center;
@@ -33,8 +34,6 @@ a{
     
 }
 #img{
-    justify-content: center;
-    width: 900px;
-    height: 900px; 
-    justify-content: center;
+    width: 70%;
+ margin-left: 15%;
   }
