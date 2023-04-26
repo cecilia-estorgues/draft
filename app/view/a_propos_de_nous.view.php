@@ -83,7 +83,15 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 
 
 <section>
-
+<h2>Infos pratiques</h2>
+<p>Nos horaires:</p>
+<p>Ouvert du lundi au vendredi de 11h00 à 22h00</p>
+<p>Ouvert le samedi de 11h00 à 00h00</p>
+<p>
+ 
+</p>
+<p>Adresse : </p>
+<p>240 Rue de la Motte, 77550 Moissy-Cramayel</p>
 
 </section>
 
