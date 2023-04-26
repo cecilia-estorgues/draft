@@ -1,7 +1,7 @@
 <footer>
     <img src="public/images/background/back_1foot.png" class="imgfoot" alt="ensemble de dessins Draft">
     <ul id="gauche" class="foot">
-        <li><a href="">Nos produits</a></li>
+        <li><a href="nos_produits.php">Nos produits</a></li>
         <li><a href="actualites.php">Actualités</a></li>
         <li><a href="">Jeu</a></li>
         <li><a href="a_propos_de_nous.php">A propos de nous</a></li>

@@ -11,7 +11,7 @@
 
 
 <section class="nos valeurs">
-<h2>Nos valeurs</h2>
+<h2 class='fond'>Nos valeurs</h2>
 <p>
 Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en face-à-face ou au travers de nos réseaux sociaux, il reste essentiel pour nous de pouvoir vous faire découvrir nos produits dans le respect et la créativité.
  
@@ -33,7 +33,7 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 
 
 <section class="personnages">
-<h2>Notre équipe</h2>
+<h2 class='fond'>Notre équipe</h2>
 
 <div class="ligne">
     <ul>

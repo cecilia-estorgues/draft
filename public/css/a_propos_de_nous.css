@@ -44,8 +44,24 @@
       color: #000000;
       margin: 0%;
       padding-left: 5%;
+      background-image: url(public/images/background/tache_rose.png);
+    /*background-repeat: no-repeat;
+      background-size: cover;
+      background-position:center;
+      height: 40vw;
+      width:100vw;*/
     }
     
+.fond {
+  background-image: url(public/images/background/tache_rose.png);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position:center;
+      height: 40vw;
+      width:100vw;
+}
+
+
     .ligne {
       display: inline-block;
       width: 50%;
