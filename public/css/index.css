@@ -51,10 +51,45 @@ margin-bottom:vw;
 
 
 
+.bg-video {
 
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
 
+}
 
+#txt-t{
+  display:flex;
 
+  justify-content: center;
+}
+
+.txt{
+  z-index: 5;
+  position:absolute;
+  margin-top:-48vw;
+  text-align:center;
+  margin-left:11vw;
+margin-right:11vw;
+}
+
+.txt2{
+  z-index: 5;
+  position:absolute;
+  margin-top:-55vw;
+  text-align:center;
+}
+
+.txt3{
+  z-index: 5;
+  position:absolute;
+  margin-top:-40vw;
+  text-align:center;
+  
+}
 
 
 #btn-1{
@@ -101,6 +136,9 @@ background-color: #FF6700;
   text-align: center;
 }
 
+h1{
+  font-family:  'DELLIGER', arial;
+}
 
 .container {
   display: flex;
