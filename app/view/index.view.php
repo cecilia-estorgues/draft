@@ -39,7 +39,7 @@
 
     <section class="grouping">
 
-        <h1>DES PRODUITS DE QUALITES</h1>
+        <h1>Des produits de qualités</h1>
 
         <div class="container">
             <div class="content">
@@ -80,7 +80,7 @@
 
     <section class="grouping">
 
-        <h1><img src="public/images/dessins/feuilles.png" id="feuille" alt='icone feuille de notre qualité'> </div>NOS PRODUCTEURS LOCAUX</h1>
+        <h1><img src="public/images/dessins/feuilles.png" id="feuille" alt='icone feuille de notre qualité'> </div>Nos producteurs locaux</h1>
         <img src="public/images/background/product_map.png" id="map1" alt='Carte de nos producteurs locaux, disponible sur Google Map'>
         <div id="tache_profil">
             <p></br></br>Nous sommes en partenariat avec des producteurs </br> locaux proches de notre brasserie qui </br>
