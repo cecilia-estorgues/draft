@@ -63,7 +63,7 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
     <ul>
 
     <li>
-        <a href="equipefraise.php"><img src="public/images/dessins/fraise.png"></a>
+        <a href="equipe_fraise.php"><img src="public/images/dessins/fraise.png"></a>
         <p>Fraise</p>
     </li>
 
