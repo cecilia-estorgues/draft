@@ -1,10 +1,10 @@
 <main>
 
-    <div id="background_i"></div>
+    <div id="background_im0"></div>
 
     <section>
         <div id="title">
-            <h1>NOTRE ACTUALITÉ</h1>
+            <h1>NOTRE ACTUALITE</h1>
         </div>
 
         <section id="contain2">
