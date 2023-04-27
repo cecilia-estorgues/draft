@@ -1,7 +1,7 @@
 body {
     margin:0;
     
-      overflow-x:hiden;
+      overflow-x:hidden;
       
 }
 
@@ -65,6 +65,8 @@ margin-bottom:vw;
   display:flex;
 
   justify-content: center;
+
+
 }
 
 .txt{
@@ -76,26 +78,41 @@ margin-bottom:vw;
 margin-right:11vw;
 color:white;
 font-size:2vw;
+border-radius: 16px;
+background-color: rgba(0, 0, 0, 0.468);  
+padding: 0 5vw;
+padding-top:3vw;
+  padding-bottom: 3vw;
 }
 
 .txt2{
   z-index: 5;
   position:absolute;
-  margin-top:-39vw;
+  margin-top:-48vw;
   text-align:center;
   color:white;
   font-family:'DELLIGER', arial;
   font-size:5vw;
+  background-color: rgba(0, 0, 0, 0.468);  
+  border-radius: 16px;
+  padding: 0 5vw;
+  padding-top:3vw;
+  padding-bottom: 3vw;
 }
 
 .txt3{
   z-index: 5;
   position:absolute;
-  margin-top:-29vw;
+  margin-top:-33vw;
   text-align:center;
-
+  padding: 0 3vw;
+  padding-top:3vw;
+  padding-bottom: 3vw;
   color:white;
   font-size: 2vw;
+
+  background-color: rgba(0, 0, 0, 0.468);  
+  border-radius: 16px;
 }
 
 
