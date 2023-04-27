@@ -61,7 +61,7 @@ p{
   }
   .navbar li {
     height: 100%;
-    width: 10%;
+    width: 10em;
     float: left;
     text-align: center;
     list-style: none;
@@ -103,10 +103,10 @@ p{
 */
 
 
-.survole{
+/*.survole{
   height: 100%;
   width: 10%;
-}
+}*/
 
   .navbar li:hover,
   .survole:hover {
