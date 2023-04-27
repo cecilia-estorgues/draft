@@ -55,7 +55,7 @@ margin-bottom:vw;
 
   top: 0;
   left: 0;
-  height: 80vw;
+  height: 50vw;
   width: 100%;
   object-fit: cover;
 
@@ -70,26 +70,28 @@ margin-bottom:vw;
 .txt{
   z-index: 5;
   position:absolute;
-  margin-top:-48vw;
+  margin-top:-20vw;
   text-align:center;
   margin-left:11vw;
 margin-right:11vw;
 color:white;
+font-size:2vw;
 }
 
 .txt2{
   z-index: 5;
   position:absolute;
-  margin-top:-55vw;
+  margin-top:-39vw;
   text-align:center;
   color:white;
   font-family:'DELLIGER', arial;
+  font-size:5vw;
 }
 
 .txt3{
   z-index: 5;
   position:absolute;
-  margin-top:-40vw;
+  margin-top:-29vw;
   text-align:center;
 
   color:white;

@@ -1,6 +1,6 @@
 <main>
 <section>
-<img src="public/images/background/image_a_propos.jpg">
+<img src="public/images/background/image_a_propos.jpg" alt="illustration faite par nos soins, sur laquelle nous avons disposé plein de dessins de personnages que nous avons réalisés">
 
 
 
@@ -11,7 +11,10 @@
 
 
 <section class="nos valeurs">
+<div class="back">
 <h2 class='fond'>Nos valeurs</h2>
+</div>
+
 <p>
 Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en face-à-face ou au travers de nos réseaux sociaux, il reste essentiel pour nous de pouvoir vous faire découvrir nos produits dans le respect et la créativité.</p>
  
@@ -33,7 +36,9 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 
 
 <section class="personnages">
+<div class="back">
 <h2 class='fond'>Notre équipe</h2>
+</div>
 
 <div class="ligne">
     <ul>
@@ -73,7 +78,7 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 </ul>
 
 </div>
-</main>
+
 
 
 
@@ -82,17 +87,19 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 </section>
 
 
-<section>
-
-
+<section class="fond2">
+    <div class="fond2">
+<h2>Infos pratiques</h2>
+<p>Nos horaires:</p>
+<p>Ouvert du lundi au vendredi de 11h00 à 22h00</p>
+<p>Ouvert le samedi de 11h00 à 00h00</p>
+<p>
+ 
+</p>
+<p>Adresse : </p>
+<p>240 Rue de la Motte, 77550 Moissy-Cramayel</p>
+</div>
 </section>
-
-
-
-
-
-
-
 
 
 

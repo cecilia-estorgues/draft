@@ -48,23 +48,35 @@ section {
       text-align: left;
       letter-spacing: 0.005em;
       color: #000000;
-      margin-left: 10%;
-      margin-bottom: 3%;
-     /*background-image: url(public/images/background/tache_rose.png);*/
-    /*background-repeat: no-repeat;
-      background-size: cover;
-      background-position:center;
-      height: 40vw;
-      width:100vw;*/
+      display: inline-block;
+      margin-left: 12%;
     }
-    
-/*.fond {
- background-image: url(public/images/background/tache_rose.png);
+  
+ .fond{
+  margin-left: 60px;
+ }   
+
+
+
+.back {
+  margin-left: 10%;
+      margin-bottom: 3%;
+      background-image: url(../images/background/tache_rose.png);
       background-repeat: no-repeat;
       background-size: cover;
-      background-position:center;
-      height: 40vw;
-      width:100vw;
+      /* background-position: center; */
+      height: 149px;
+      width: 400px;
+}
+
+/*.fond2 {
+  margin-left: 10%;
+  margin-bottom: 3%;
+  background-image: url(../images/background/peint_verte.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 149px;
+  width: 400px;
 }*/
 
 
