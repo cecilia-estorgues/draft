@@ -13,7 +13,7 @@
                     <img src="public/images/background/tache_jaune.png">
 
                     <p>La Butineuse, d’une composition inédite avec son miel de châtaignier, casse tous les standards et diffuse autour d’elle une explosion de créativité, où qu’elle aille. Fière d’être une bière Ale…</p>
-                    <a href="#"> <button id="btn-1">En savoir plus</button> </a>
+                    <a href="#"> <button id="btn-1" tabindex="-1">En savoir plus</button> </a>
                 </div>
                 <div id="droite1"><img src="public/images/mockup/butineuse_vmaxou.png">
                 </div>
@@ -32,7 +32,7 @@
                 </div>
                 <div id="droite2"><img rc="public/images/background/tache_orange.png">
                     <p>Retrouvez nous donc le 7 juin, à Moissy Cramayel pour le festival tant attendu de la bière et découvrir la Butineuse et surtout notre marque Draft…</p>
-                    <a href="#"> <button id="btn-2">En savoir plus</button> </a>
+                    <a href="#"> <button id="btn-2" tabindex="-1">En savoir plus</button> </a>
                 </div>
             </div>
             </div>
