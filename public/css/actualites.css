@@ -28,6 +28,28 @@ float:left;
     position: absolute;
     margin-top:-40vw;
     text-align: center;
+font-size:3vw;
+width: 35vw;
+margin-left:7vw;
+}
+
+#btn-1{
+    border: 3px solid black;
+    min-height: 5vw;
+    padding: 0 2vw;
+    font-size: 1.5vw;
+    width: 15vw;
+    cursor: pointer;
+    background-color: #ffffffe2;
+    position: absolute;
+transition: 2s;
+margin-top:-10vw;
+margin-left:20vw;
+border-radius:16px;
+}
+
+#btn-1:hover{
+background-color: #9AFB04;
 }
 
 #droite1{
@@ -60,7 +82,10 @@ margin-bottom:20vw;
 
 
 
-
+h2{
+    font-family:'Delliger';
+    color:#333333;
+}
 
 #gauche2 h2, p{
     margin-bottom:-30vw;
@@ -73,7 +98,12 @@ font-size: 5vw;
 #gauche2{
 float:left;
 padding-left:105vw;
+}
 
+#gauche2 img{
+width: 20vw;
+padding-top:3vw;
+padding-left:14vw;
 }
 
 #droite2{
@@ -89,12 +119,40 @@ padding-left:105vw;
     padding-left:45vw;
 }
 
+#droite2 p{
+
+margin-left:5vw;
+    text-align: center;
+font-size:3vw;
+width: 35vw;
+
+}
+
+#btn-2{
+    border: 3px solid black;
+    min-height: 5vw;
+    padding: 0 2vw;
+    font-size: 1.5vw;
+    width: 15vw;
+    cursor: pointer;
+    background-color: #ffffffe2;
+transition: 2s;
+border-radius:16px;
+margin-top:15vw;
+margin-left:15vw;
+}
+
+#btn-2:hover{
+background-color: #9AFB04;
+}
+
+
 #contain3{
     content: "";
         display: table;
         clear: both;
 align-items: center;
-margin-top:5vw;
+margin-top:6vw;
 }
 
 #tit2 #gauche2, #droite2 {
