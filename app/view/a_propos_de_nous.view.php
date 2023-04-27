@@ -68,12 +68,12 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
     </li>
 
     <li>
-        <a href="zero.php"><img src="public/images/dessins/zero.png"></a>
+        <a href="equipe_zero.php"><img src="public/images/dessins/zero.png"></a>
         <p>Zero</p>
     </li>
 
     <li>
-        <a href="luciole.php"><img src="public/images/dessins/luciole.png"></a>
+        <a href="equipe_luciole.php"><img src="public/images/dessins/luciole.png"></a>
         <p>Luciole</p></li>
 </ul>
 

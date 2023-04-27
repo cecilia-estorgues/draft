@@ -54,7 +54,7 @@ margin-left:12vw;
     cursor: pointer;
     background-color: black;
     position: absolute;
-transition: 2s;
+transition: 1s;
 margin-top:-8vw;
 margin-left:16vw;
 border-radius:16px;
@@ -64,6 +64,7 @@ color:white;
 #btn-1:hover{
 background-color: #9AFB04;
 border:#9AFB04;
+color:black;
 }
 
 #droite1{
@@ -151,7 +152,7 @@ margin-top:15vw;
     width: 15vw;
     cursor: pointer;
     background-color: black;
-transition: 2s;
+transition: 1s;
 border-radius:16px;
 margin-top:5vw;
 margin-left:15vw;
