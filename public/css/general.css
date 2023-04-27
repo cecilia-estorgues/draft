@@ -217,4 +217,12 @@ color: #6C10E8;
   transform: scale(1.1);
 }
 
+footer p {
+  text-align: center;
+  color: white;
+  font-size: 1.1em;
+  margin-top: 10px;
+}
+
+
 /*fin footer*/

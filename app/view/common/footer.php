@@ -18,6 +18,7 @@
         <li>draft.brasserie@gmail.com</li>
         <li>06 06 06 06 06</li>
     </ul>
+    <p>*L'abus d'alcool est dangereux pour la santé</p>
 </footer>
 </body>
 </html>
