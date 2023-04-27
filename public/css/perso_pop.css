@@ -1,0 +1,67 @@
+@font-face {
+    font-family: Roboto_light;
+    src: url(../../public/font/Roboto-Light.ttf);
+  }
+
+  @font-face {
+    font-family: Delliger;
+    src: url(../../public/font/DELLIGER-PersonalUse.otf);
+  }
+
+*{
+padding: 0px;
+margin: 0px; 
+}
+
+body{
+    font-family: Roboto;
+    
+}
+
+.pop{
+   
+    width: 30%;
+    height: 40%;
+    margin-left: 17vw;
+    margin-top: 5vw;
+}
+    
+
+
+#texte {
+    margin-left: 50%;
+    margin-right: 5%;
+    margin-top: -35%;
+}
+
+#texte h2{
+font-family: delliger ;
+font-size: 100px;
+}
+#texte h3{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family:roboto_light;
+}
+#texte p {
+    margin-top: 20px;
+    font-family: roboto_light;
+    text-align: justify;
+}
+
+#boutton{
+    text-align: center;
+    margin-left: 50%;
+    margin-top: 20px;
+    width  : 90px;
+  height : 40px;
+  border-radius: 30px;
+  background :#EFFF03;
+  justify-content: center;
+  padding: auto;
+ display:flex;
+ margin-bottom: 15%;
+}
+#boutton p {
+    margin-top: 0.8vw;
+}
