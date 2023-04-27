@@ -1,11 +1,21 @@
 body{
-    overflow-x:hiden;
+    overflow-x:hidden;
 
 }
 
+
+#background_im0{
+    background-image: url(../../public/images/background/back_cc.jpeg);
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position:center;
+      height: 50vw;
+      width:100vw;
+  }
+
 #title{
-    
-    font-size:20px;
+    font-family: 'DELLIGER';
+    font-size:4vw;
 }
 
 #title h1{
@@ -14,9 +24,10 @@ body{
 
 
 #gauche1 img{
-    margin-top:2vw;
-width: 48vw;
-height:43vw;
+    margin-top:4vw;
+width: 38vw;
+height:33vw;
+margin-left:5vw;
 }
 
 #gauche1{
@@ -26,30 +37,32 @@ float:left;
 
 #gauche1 p{
     position: absolute;
-    margin-top:-40vw;
+    margin-top:-29vw;
     text-align: center;
-font-size:3vw;
-width: 35vw;
-margin-left:7vw;
+font-size:2vw;
+width: 25vw;
+margin-left:12vw;
 }
 
 #btn-1{
     border: 3px solid black;
-    min-height: 5vw;
+    min-height: 4vw;
     padding: 0 2vw;
     font-size: 1.5vw;
     width: 15vw;
     cursor: pointer;
-    background-color: #ffffffe2;
+    background-color: black;
     position: absolute;
 transition: 2s;
-margin-top:-10vw;
-margin-left:20vw;
+margin-top:-8vw;
+margin-left:16vw;
 border-radius:16px;
+color:white;
 }
 
 #btn-1:hover{
 background-color: #9AFB04;
+border:#9AFB04;
 }
 
 #droite1{
@@ -102,7 +115,7 @@ padding-left:105vw;
 
 #gauche2 img{
 width: 20vw;
-padding-top:3vw;
+padding-top:1vw;
 padding-left:14vw;
 }
 
@@ -110,22 +123,23 @@ padding-left:14vw;
     float:right;
     background-image: url(../../public/images/background/tache_orange.png);
     background-repeat: no-repeat;
-    background-size:45vw;
-
+    background-size:35vw;
+    background-position: 1.5vw;
+    padding-top:vw;
 }
 
 #droite2 img{
-    width: vw;
+    
     padding-left:45vw;
 }
 
 #droite2 p{
 
-margin-left:5vw;
+margin-left:7vw;
     text-align: center;
-font-size:3vw;
-width: 35vw;
-
+font-size:2vw;
+width: 25vw;
+margin-top:15vw;
 }
 
 #btn-2{
@@ -135,15 +149,18 @@ width: 35vw;
     font-size: 1.5vw;
     width: 15vw;
     cursor: pointer;
-    background-color: #ffffffe2;
+    background-color: black;
 transition: 2s;
 border-radius:16px;
-margin-top:15vw;
+margin-top:5vw;
 margin-left:15vw;
+color:white;
 }
 
 #btn-2:hover{
 background-color: #9AFB04;
+border:#9AFB04;
+color:black;
 }
 
 
