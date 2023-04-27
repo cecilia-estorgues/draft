@@ -16,7 +16,7 @@ body{
 #title{
     font-family: 'DELLIGER';
     font-size:4vw;
-    color:#333333;
+    color:black;
 }
 
 #title h1{
@@ -56,7 +56,7 @@ margin-left:12vw;
     position: absolute;
 transition: 1s;
 margin-top:-8vw;
-margin-left:16vw;
+margin-left:20vw;
 border-radius:16px;
 color:white;
 }
@@ -113,12 +113,13 @@ font-size: 5vw;
 #gauche2{
 float:left;
 padding-left:105vw;
+margin-top:10vw;
 }
 
 #gauche2 img{
-width: 20vw;
+width: 10vw;
 padding-top:1vw;
-padding-left:14vw;
+padding-left:19vw;
 }
 
 #droite2{
@@ -155,7 +156,7 @@ margin-top:15vw;
 transition: 1s;
 border-radius:16px;
 margin-top:5vw;
-margin-left:15vw;
+margin-left:12vw;
 color:white;
 }
 
