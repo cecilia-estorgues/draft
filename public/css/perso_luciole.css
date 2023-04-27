@@ -15,19 +15,21 @@ margin: 0px;
 
 body{
     font-family: Roboto;
-}
-
-img{
-    margin-left: 50px; 
-    margin-right:100px ;
-    width : 450px;
-    height : 600px;
     
 }
+
+#dessin{
+   
+    width: 20%;
+    height: 40%;
+}
+    
+
+
 #texte {
     margin-left: 50%;
     margin-right: 5%;
-    margin-top: -30%;
+    margin-top: -50%;
 }
 
 #texte h2{
@@ -56,7 +58,7 @@ font-size: 100px;
   justify-content: center;
   padding: auto;
  display:flex;
- margin-bottom: 20%;
+ margin-bottom: 30%;
 }
 #boutton p {
     margin-top: 0.8vw;
