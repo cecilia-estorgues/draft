@@ -1,6 +1,6 @@
 <?php
 
-$page_title= 'Notre équipe: Chery pop';
+$page_title= 'Notre équipe: Cherry-Pop';
 $css='perso_pop.css';
 
 
