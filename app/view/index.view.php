@@ -29,7 +29,7 @@
 
         <div id="txt-t">
         <h2 class="txt2">Faites exploser vos couleurs</h2>
-                    <h3 class="txt3">Bienvenue chez nous, </br> la micro-brasserie de Moissy-Cramayel</h3>
+                    <h3 class="txt3">Bienvenue chez nous, </br> la micro-brasserie de Moissy-Cramayel 77550</h3>
         <p class="txt">Nous sommes une jeune équipe de 10 camarades, qui vient de créer ses propres bières originelles et atypiques, et qui
                         à décider d'installer sa brasserie dans la ville de  Moissy-Cramayel dans le 77. Nous vous attendons nombreux avec votre
                         créativité et vos pensées positives pour venir gouter notre production.</p></div>
@@ -39,7 +39,7 @@
 
     <section class="grouping">
 
-        <h1>DES PRODUITS DE QUALITES</h1>
+        <h1>Des produits de qualités</h1>
 
         <div class="container">
             <div class="content">
@@ -80,7 +80,7 @@
 
     <section class="grouping">
 
-        <h1><img src="public/images/dessins/feuilles.png" id="feuille" alt='icone feuille de notre qualité'> </div>NOS PRODUCTEURS LOCAUX</h1>
+        <h1><img src="public/images/dessins/feuilles.png" id="feuille" alt='icone feuille de notre qualité'> </div>Nos producteurs locaux</h1>
         <img src="public/images/background/product_map.png" id="map1" alt='Carte de nos producteurs locaux, disponible sur Google Map'>
         <div id="tache_profil">
             <p></br></br>Nous sommes en partenariat avec des producteurs </br> locaux proches de notre brasserie qui </br>

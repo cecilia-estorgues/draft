@@ -1,7 +1,7 @@
         <main>
             <header></header>
             <div id="dessin">
-          <img src ="public/images/dessins/equip_luciole.png" alt = "Le personnage de luciole"/>  
+          <img class = "luciole" src ="public/images/dessins/equip_luciole.png" alt = "Le personnage de luciole"/>  
             </div>
             <div id="texte">
                 <h2>Luciole</h2>

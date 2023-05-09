@@ -43,15 +43,15 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 <div class="ligne">
     <ul>
 <li>
-    <a href="bubble.php"><img src="public/images/dessins/bubble.png"></a> 
+    <a href="equipe_bubble.php"><img src="public/images/dessins/bubble.png"></a> 
     <p>Bubble</p>
 </li> 
 
-<li><a href="lime.php"><img src="public/images/dessins/lime.png"></a> 
+<li><a href="equipe_lime.php"><img src="public/images/dessins/lime.png"></a> 
     <p>Lime</p>
 </li>
 
-<li><a href="cherry_pop.php"><img src="public/images/dessins/cerise.png"></a> 
+<li><a href="equipe_pop.php"><img src="public/images/dessins/cerise.png"></a> 
     <p>Cherry pop</p>
 <li>
 
@@ -63,17 +63,17 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
     <ul>
 
     <li>
-        <a href="fraise.php"><img src="public/images/dessins/fraise.png"></a>
+        <a href="equipe_fraise.php"><img src="public/images/dessins/fraise.png"></a>
         <p>Fraise</p>
     </li>
 
     <li>
-        <a href="zero.php"><img src="public/images/dessins/zero.png"></a>
+        <a href="equipe_zero.php"><img src="public/images/dessins/zero.png"></a>
         <p>Zero</p>
     </li>
 
     <li>
-        <a href="luciole.php"><img src="public/images/dessins/luciole.png"></a>
+        <a href="equipe_luciole.php"><img src="public/images/dessins/luciole.png"></a>
         <p>Luciole</p></li>
 </ul>
 

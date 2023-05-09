@@ -15,6 +15,7 @@
     <h4>Avez vous 18 ans ?</h4>
     <a href="index.php" id="oui"><div>Oui</div></a>
     <a href="refuse.php" id="non"><div>Non</div></a>
+    <p id='txt-ft'>L'abus d'alcool est dangereux pour la santé, à consommer avec modération !</p>
 </main>
 </body>    
 </html>
