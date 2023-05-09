@@ -3,7 +3,7 @@
 function getdbco(): PDO 
 {
 $serveur = "localhost";
-$dbname = "sqlite:C:\wamp64\www\draft\app\database\draft.sqlite";
+$dbname = "sqlite:app\database\draft.sql";
 $user = "root";
 $pass = "";
     
