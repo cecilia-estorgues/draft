@@ -69,15 +69,17 @@ section {
       width: 400px;
 }
 
-/*.fond2 {
+.fond2 {
+  padding-bottom: 223px;
+  padding-top: 76px;
   margin-left: 10%;
   margin-bottom: 3%;
   background-image: url(../images/background/peint_verte.png);
   background-repeat: no-repeat;
   background-size: cover;
-  height: 149px;
-  width: 400px;
-}*/
+  /* height: 100%; */
+  width: 75%;
+}
 
 
     .ligne {
