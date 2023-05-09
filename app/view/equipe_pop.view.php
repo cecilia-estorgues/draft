@@ -6,7 +6,11 @@
             <div id="texte">
                 <h2>Cherry-pop</h2>
                 <h3>Tombez de plaisir</h3> 
-                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod </p>
+                <p> Cherry-Pop est une bière à la cerise qui offre un mélange unique de saveurs
+                    fruitées et rafraîchissantes. Au nez, Cherry-Pop offre des arômes de cerises fraîches,
+                    avec des notes douces et sucrées. En bouche, cette bière offre une saveur vive et fruitée
+                    de cerises bien mûres, avec une légère acidité qui vient équilibrer la douceur du fruit. 
+                </p>
     
             </div>
             <div id="boutton">
