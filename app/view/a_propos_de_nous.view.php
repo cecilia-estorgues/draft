@@ -87,7 +87,7 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 </section>
 
 
-<section class="fond2">
+<section>
     <div class="fond2">
 <h2>Infos pratiques</h2>
 <p>Nos horaires:</p>
