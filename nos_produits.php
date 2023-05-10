@@ -4,7 +4,7 @@ require_once 'app/model/databaseco.php';
 require_once 'app/model/produit.model.php';
 
 $css="produit.css";
-$dbco = getdbco();
+$dbco=getdbco();
 $pokedex = getProduit($dbco);
 
 $page_title = 'Nos produits';
