@@ -1,0 +1,30 @@
+@font-face {
+    font-family: Roboto_light;
+    src: url(../../public/font/Roboto-Light.ttf);
+  }
+
+  @font-face {
+    font-family: Delliger;
+    src: url(../../public/font/DELLIGER-PersonalUse.otf);
+  }
+
+h1{
+    font-family: Delliger;
+    font-size:100px ;
+    text-align: center;
+}
+
+.gauche {
+    width: 30%;
+    height: 40%;
+    margin-left: 17vw;
+}
+
+
+
+
+.droite {
+    float: right;
+}
+
+
