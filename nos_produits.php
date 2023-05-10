@@ -3,6 +3,7 @@
 require_once 'app/model/databaseco.php';
 require_once 'app/model/produit.model.php';
 
+$css="produit.css";
 $dbco = getdbco();
 $pokedex = getProduit($dbco);
 
