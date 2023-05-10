@@ -21,6 +21,4 @@ $pass = "";
 return $dbco;
 }
 
-
-
 ?>
