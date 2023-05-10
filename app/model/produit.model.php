@@ -2,9 +2,9 @@
 
 function getProduit(PDO $dbco): array 
 {
-$sql = "SELECT reference as ref, nom_produit FROM produit WHERE taux_alcool NOT NULL";
-$query = $dbco->query($sql);
-$results = $query->fetchAll();
+$sql="SELECT reference as ref, nom_produit FROM produit";
+$query=$dbco->query($sql);
+$results=$query->fetchAll();
 
 return $results;
 }

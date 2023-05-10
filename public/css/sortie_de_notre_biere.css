@@ -14,14 +14,19 @@ main section .gaucheee {
 
 .droiteee{
   padding-top: 25vw;
-  margin-left:2vw;
-  margin-right:2vw;
+  margin-left:3vw;
+  margin-right:4vw;
   font-size:x-large;
+padding-bottom:15vw;
+  
 }
 
 
 #contenue{
   display:flex;
+  background-image: url(../images/background/);
+  background-repeat:no-repeat;
+  background-size:contain;
 }
 
 
