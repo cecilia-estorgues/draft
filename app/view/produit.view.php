@@ -1,6 +1,6 @@
 <main>
     <div class="container biere">
-        <?php foreach ($produit as $biere) : ?>
+        <?php foreach ($nos_produits as $produit) : ?>
             <div class="biere">
                 <figure>
                     <a href="">
@@ -11,8 +11,8 @@
                     <p class="pokemon-nom"><?= $produit['nom_produit'] ?></p>
                     <div class="types">
                         <ul>
-                            <?php foreach ($produit['particularites'] as $specialite) : ?>
-                                <li class="type--<?= convertType2Class($specialite) ?>"><?= $specialite ?></li>
+                            <?php foreach ($produit['particularite'] as $spe) : ?>
+                                <li class="type--<?= convertType2Class($spe) ?>"><?= $spe ?></li>
                             <?php endforeach ?>
                         </ul>
                     </div>
