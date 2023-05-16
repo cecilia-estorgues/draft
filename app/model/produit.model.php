@@ -1,9 +1,9 @@
 <?php
 
-function getProduit(PDO $dbco): array 
+function getProduit($dbco): array 
 {
-$sql="SELECT * FROM produit";
- $query=$dbco->query($sql);
+$sql="SELECT nom_produit FROM produit";
+$query=$dbco->query($sql);
 $results=$query->fetchAll();
 
 return $results;
