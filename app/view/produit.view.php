@@ -1,6 +1,6 @@
 <main>
     <div class="container biere">
-        <?php foreach ($produit as $biere) : ?>
+        <?php foreach ($nos_produits as $produit) : ?>
             <div class="biere">
                 <figure>
                     <a href="">

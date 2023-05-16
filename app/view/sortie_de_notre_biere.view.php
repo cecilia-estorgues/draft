@@ -6,7 +6,7 @@
 
     <section id="contenue">
         <div class="gaucheee">
-            <img alt="image de la butineuse : notre bière au miel de chataigner représenter par la statue de la liberté qui tient dans sa main un baton de miel" src="public/images/mockup/butineuse_vmaxou.png">
+            <img alt="image de la butineuse : notre bière au miel de chataigner représenter par la statue de la liberté qui tient dans sa main un baton de miel" src="public/images/mockup/butineuse_vmaxou2.png">
         </div>
 
     
