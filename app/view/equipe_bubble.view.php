@@ -10,7 +10,7 @@
     
             </div>
             <div id="boutton">
-                <p>La bière</p>
+                <button>La bière</button>
             </div>
 
         </main>
