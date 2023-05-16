@@ -10,7 +10,7 @@
     
             </div>
             <div id="boutton">
-                <p>La bière</p>
+            <button><a href="">La bière</a></button>
             </div>
 
         </main>

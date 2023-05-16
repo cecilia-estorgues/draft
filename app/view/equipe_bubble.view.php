@@ -10,7 +10,7 @@
     
             </div>
             <div id="boutton">
-                <p>La bière</p>
+            <button><a href="https://www.crazygames.fr/jeu/pixel-wars-of-hero%22%3E">La biere</a></button>
             </div>
 
         </main>
