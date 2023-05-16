@@ -49,19 +49,12 @@ font-size: 100px;
     text-align: justify;
 }
 
-#boutton{
-    text-align: center;
-    margin-left: 50%;
-    margin-top: 20px;
-    width  : 90px;
-  height : 40px;
-  border-radius: 30px;
-  background :#F686F6;
-  justify-content: center;
-  padding: auto;
- display:flex;
- margin-bottom: 20%;
-}
-#boutton p {
-    margin-top: 0.8vw;
+button{
+    font-family: Roboto_light;
+    margin-bottom: 100px;
+    font-size: 25px;
+    margin-left: 683px;
+    background-color: #9AFB04;
+    border: 5px solid #9AFB04;
+    border-radius: 25px;
 }
