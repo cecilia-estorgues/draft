@@ -5,7 +5,8 @@ require_once 'app/model/produit.model.php';
 
 $css="produit.css";
 $dbco=getdbco();
-$pokedex = getProduit($dbco);
+$nos_produits = getProduit($dbco);
+$nos_produits = Linknametoref($nos_produits, $dbco);
 
 $page_title = 'Nos produits';
 
