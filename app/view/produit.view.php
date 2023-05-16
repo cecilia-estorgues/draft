@@ -10,10 +10,8 @@
                 <div class="description">
                     <p class="pokemon-nom"><?= $produit['nom_produit'] ?></p>
                     <div class="types">
-                        <ul>
-                            <?php foreach ($produit['particularite'] as $spe) : ?>
-                                <li class="type--<?= convertType2Class($spe) ?>"><?= $spe ?></li>
-                            <?php endforeach ?>
+                        <ul> 
+                                <li><?= $spe ?></li>
                         </ul>
                     </div>
                 </div>
