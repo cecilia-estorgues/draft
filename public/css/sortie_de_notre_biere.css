@@ -7,29 +7,41 @@ main section h1{
 }
 
 main section .gaucheee {
-    /*width: 30%;*/
-    height: 30%;
-    margin-left: 17vw;
+  width: 60%;
+  /* height: 20%; */
+  margin-left: 19vw;
+  margin-top: -2vw;
 }
 
 .droiteee{
-  padding-top: 25vw;
-  margin-left:3vw;
-  margin-right:4vw;
-  font-size:x-large;
-padding-bottom:15vw;
+  padding-top: 4vw;
+  margin-left: 9vw;
+  margin-right: 14vw;
+  font-size: x-large;
+  padding-bottom: 10vw;
   
 }
 
 
 #contenue{
   display:flex;
-  background-image: url(../images/background/);
+  background-image: url(../images/background/tache_bleu_biere.png);
   background-repeat:no-repeat;
   background-size:contain;
 }
 
 
+img {
+  width: 100%;
+}
 
+button {
+  font-family: Roboto_light;
+  margin-bottom: 100px;
+  font-size: 22px;
+  background-color: #FFFF03;
+  border: 10px solid #FFFF03;
+  border-radius: 25px;
+}
 
 
