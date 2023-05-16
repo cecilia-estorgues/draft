@@ -35,19 +35,18 @@ button{
   
 }
 .text{
-
-    background-image: url(../images/background/tache_rose.png);
-    width: 70%;
+    background-image: url(../images/background/rose.png);
+    width: 60%;
     /* height: 1000px; */
     background-repeat: no-repeat;
     background-size: contain;
     padding-bottom: 61px;
-    padding-top: 76px;
-    margin-left: 10%;
-    margin-bottom: 3%;
-    padding-left: 5%;
-    
+    padding-top: 123px;
+    margin-left: 11%;
+    padding-left: 10%;
+    padding-right: 10%;
 }
+
 a{
     text-decoration: none;
     color: black;
