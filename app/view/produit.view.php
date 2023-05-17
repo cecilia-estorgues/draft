@@ -1,14 +1,14 @@
 <main>
     <div class="container biere">
-        <?php foreach ($nos_produits as $produit) : ?>
+        <?php foreach ($nos_bieres as $biere) : ?>
             <div class="biere">
                 <figure>
                     <a href="">
-                        <img src="public/images/pokemon/small/<?= $produit['nom_produit'] ?>.png" alt="<?= $produit['nom_produit'] ?>">
+                        <img src="public/images/pokemon/small/<?= $biere['nom_produit'] ?>.png" alt="<?= $biere['nom_produit'] ?>">
                     </a>
                 </figure>
                 <div class="description">
-                    <p class="pokemon-nom"><?= $produit['nom_produit'] ?></p>
+                    <p class="pokemon-nom"><?= $biere['nom_produit'] ?></p>
                 </div>
             </div>
         <?php endforeach ?>
