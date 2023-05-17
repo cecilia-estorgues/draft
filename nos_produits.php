@@ -7,6 +7,7 @@ $css="produit.css";
 $dbco=getdbco();
 $nos_produits = getProduit($dbco);
 
+
 $page_title = 'Nos produits';
 
 ob_start();

@@ -9,11 +9,6 @@
                 </figure>
                 <div class="description">
                     <p class="pokemon-nom"><?= $produit['nom_produit'] ?></p>
-                    <div class="types">
-                        <ul> 
-                                <li><?= $spe ?></li>
-                        </ul>
-                    </div>
                 </div>
             </div>
         <?php endforeach ?>
