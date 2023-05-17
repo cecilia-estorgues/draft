@@ -4,7 +4,7 @@
             <div class="biere">
                 <figure>
                     <a href="">
-                        <img src="public/images/pokemon/small/<?= $biere['nom_produit'] ?>.png" alt="<?= $biere['nom_produit'] ?>">
+                        <img src="public/images/mockup/<?= $biere['nom_produit'] ?>.png" alt="<?= $biere['nom_produit'] ?>">
                     </a>
                 </figure>
                 <div class="description">
