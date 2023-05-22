@@ -55,7 +55,7 @@
                         <img src="public/images/mockup/zero.png" alt='Bouteille de bière sans alcool'>
                     </div>
                     <div class="box-web">
-                        <img src="public/images/mockup/bubble_gum.png" alt='Bouteille de bière au chewing-gum'>
+                        <img src="public/images/mockup/bubble.png" alt='Bouteille de bière au chewing-gum'>
                     </div>
                     <div class="box-web">
                         <img src="public/images/mockup/lime.png" alt='Bouteille de bière au citron'>
