@@ -1,0 +1,17 @@
+*{
+    list-style: none;
+}
+
+main h1{
+    text-align: center;
+}
+
+main ul{
+    display:flex;
+    
+    justify-content: space-evenly;
+}
+
+main li{
+    border: 1vw black solid;
+}
