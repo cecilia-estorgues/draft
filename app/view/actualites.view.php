@@ -30,7 +30,7 @@
                     <h2>Festival de la </br>bière</h2>
                     <img src="public/images/icones/nobg/calendrier.png" alt="Notre evènement le 7 juin">
                 </div>
-                <div id="droite2"><img rc="public/images/background/tache_orange.png" alt="Une tache de décoration d'arrière plan">
+                <div id="droite2"><img src="public/images/background/tache_orange.png" alt="Une tache de décoration d'arrière plan">
                     <p>Retrouvez nous donc le 7 juin, à Moissy Cramayel pour le festival tant attendu de la bière et découvrir la Butineuse et surtout notre marque Draft…</p>
                     <a href="evenements.php"> <button id="btn-2" tabindex="-1">En savoir plus</button> </a>
                 </div>
