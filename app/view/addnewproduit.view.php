@@ -31,8 +31,8 @@
     </div>
 
 
+        <input class="button" type="submit"  value="ajouter" aria-label="Ajouter un client">
 
-        <input type="submit"  value="ajouter" aria-label="Ajouter un client">
     </form>
 </div>
 </main>
