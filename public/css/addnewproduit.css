@@ -12,8 +12,6 @@
 
 
 form{
-    border: 2px solid #6c10e8;
-    border-radius: 25px;
     margin: 10px;
     text-align: right;
     color: #6c10e8;
@@ -24,6 +22,13 @@ h1{
     font-size:100px ;
     text-align: center;
 }
-/*form{
-    text-align: center;
+input{
+    /*text-align: center;*/
+    border: 2px solid #6c10e8;
+    border-radius: 25px;
+    margin: 5px;
 }
+
+/*main {
+  align-content: center;
+}*/
