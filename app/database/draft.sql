@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Hôte : 127.0.0.1:3306
--- Généré le : mar. 09 mai 2023 à 10:28
+-- Généré le : mar. 23 mai 2023 à 09:32
 -- Version du serveur : 8.0.31
 -- Version de PHP : 8.0.26
 
@@ -138,24 +138,24 @@ CREATE TABLE IF NOT EXISTS `produit` (
   `ibu` int DEFAULT NULL,
   `volume` varchar(10) COLLATE utf8mb4_general_ci DEFAULT NULL,
   PRIMARY KEY (`reference`)
-) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
 --
 -- Déchargement des données de la table `produit`
 --
 
 INSERT INTO `produit` (`reference`, `type`, `nom_produit`, `description`, `prix`, `taux_alcool`, `particularite`, `ibu`, `volume`) VALUES
-(15563, '', 'Lime', 'Lime, est une bière blanche, à la composition inédite du citron. Elle diffuse autour d’elle une explosion de créativité́, où qu’elle aille. Fière d’être une bière, elle a un goût plus acidulé que les autres. Avec son attitude originale pour une bière, elle souhaite montrer aux autres, qu’il faut avoir de la créativité.', '2,75€', '5%', 'Citron', 15, '75cL'),
-(98645, '', 'Zero', 'La Zéro, est une bière blonde sans alcool qui nous permet de savourer son houblon sans avoir mal au crâne. D’une composition 100% naturel et authentique elle ose tout. Fière d’être une bière Ale, elle a un goût plus doux que les autres. Avec son attitude originale pour une bière, elle souhaite montrer à tous qu’il ne faut pas hésiter à oser.', '2,75€', '0%', 'Sans alcool', 5, '75cL'),
-(54215, '', 'Fraise', 'Fraise, une bière blanche, est d’une composition fruitière inédite avec sa fraise, elle casse tous les standards et diffuse autour d’elle une détermination. Fière d’être une bière, elle a un goût fruité. Avec son attitude originale pour une bière, elle vous souhaite de ne jamais baisser les bras.', '2,75€', '4%', 'Fraise', 15, '75cL'),
-(85347, '', 'Cherry pop', 'Cherry-pop, d une composition fruitée à la cerise, casse tous les standards et diffuse autour d’elle la bonne humeur et le plaisir d’aimer. Fière d’être une bière aux tons rouges, elle a un goût plus sucré que les autres. Avec son attitude originale pour une bière, elle souhaite inspiré à tous, la joie et la bonne humeur.', '2,75€', '4%', 'Cerise', 15, '75cL'),
-(89542, '', 'Bubble', 'Bubble, d’une composition inédite avec sa base aux Bubble gum, elle nous replonge en enfance et insiste sur le fait d’être soit même. Avec son attitude originale pour une bière, elle souhaite montrer à tous qu’il ne faut pas se cacher derrière une apparence.', '2,75€', '3,80%', 'Chewing-gum', 10, '75cL'),
-(58539, '', 'Luciole', 'Luciole est une bière blonde Lager à laquelle a été ajoutée des paillettes alimentaires qui illuminent la bière et lui donne un effet de brillance référence à son nom.', '2,75€', '5.5%', 'Luminescente', 16, '75cL'),
-(88925, '', 'La butineuse', 'La Butineuse, d’une composition inédite avec son miel de châtaignier, casse tous les standards et diffuse autour d’elle une explosion de créativité, où qu’elle aille. Fière d’être une bière Ale, elle a un goût plus doux que les autres. Avec son attitude originale pour une bière, elle souhaite montrer à tous qu’il ne faut pas hésiter à s’exprimer.', '2,75€', '5,75%', 'Miel de Chataigner', 11, '75cL'),
-(85145, '', 'Dessous de verre', 'Ces beaux dessous de verre, pour éviter de nettoyer vos tables et pour vous permettre de profiter de votre bière sans aucun souci.', '6€', NULL, NULL, NULL, NULL),
-(24853, '', 'Verre', 'Un verre qui vous fera rêvé avec son design original aux couleurs de Draft. En verre 100% recyclé, il vous permettra de déguster nos bières dans les meilleures conditions', '7€', NULL, NULL, NULL, NULL),
-(88415, '', 'Décapsuleur', 'Dès que vous en avait besoin, il est là. Facile à emporter et utiliser. Le décapsuleur porte-clés vont rendra la vie plus simple', '2,50€', NULL, NULL, NULL, NULL),
-(56415, '', 'Stylo', 'Ce magnifique stylo en plastique recyclé aux couleurs de Draft vous permettra de nous écrire et de rester en contact avec nous. N’hésitez pas', '1,20€', NULL, NULL, NULL, NULL);
+(15563, 'biere', 'Lime', 'Lime, est une bière blanche, à la composition inédite du citron. Elle diffuse autour d’elle une explosion de créativité́, où qu’elle aille. Fière d’être une bière, elle a un goût plus acidulé que les autres. Avec son attitude originale pour une bière, elle souhaite montrer aux autres, qu’il faut avoir de la créativité.', '2,75€', '5%', 'Citron', 15, '75cL'),
+(24853, 'goodies', 'Verre', 'Un verre qui vous fera rêvé avec son design original aux couleurs de Draft. En verre 100% recyclé, il vous permettra de déguster nos bières dans les meilleures conditions', '7€', NULL, NULL, NULL, NULL),
+(54215, 'biere', 'Fraise', 'Fraise, une bière blanche, est d’une composition fruitière inédite avec sa fraise, elle casse tous les standards et diffuse autour d’elle une détermination. Fière d’être une bière, elle a un goût fruité. Avec son attitude originale pour une bière, elle vous souhaite de ne jamais baisser les bras.', '2,75€', '4%', 'Fraise', 15, '75cL'),
+(56415, 'goodies', 'Stylo', 'Ce magnifique stylo en plastique recyclé aux couleurs de Draft vous permettra de nous écrire et de rester en contact avec nous. N’hésitez pas', '1,20€', NULL, NULL, NULL, NULL),
+(58539, 'biere', 'Luciole', 'Luciole est une bière blonde Lager à laquelle a été ajoutée des paillettes alimentaires qui illuminent la bière et lui donne un effet de brillance référence à son nom.', '2,75€', '5.5%', 'Luminescente', 16, '75cL'),
+(85145, 'goodies', 'Dessous de verre', 'Ces beaux dessous de verre, pour éviter de nettoyer vos tables et pour vous permettre de profiter de votre bière sans aucun souci.', '6€', NULL, NULL, NULL, NULL),
+(85347, 'biere', 'Cherry pop', 'Cherry-pop, d une composition fruitée à la cerise, casse tous les standards et diffuse autour d’elle la bonne humeur et le plaisir d’aimer. Fière d’être une bière aux tons rouges, elle a un goût plus sucré que les autres. Avec son attitude originale pour une bière, elle souhaite inspiré à tous, la joie et la bonne humeur.', '2,75€', '4%', 'Cerise', 15, '75cL'),
+(88415, 'goodies', 'Décapsuleur', 'Dès que vous en avait besoin, il est là. Facile à emporter et utiliser. Le décapsuleur porte-clés vont rendra la vie plus simple', '2,50€', NULL, NULL, NULL, NULL),
+(88925, 'biere', 'La butineuse', 'La Butineuse, d’une composition inédite avec son miel de châtaignier, casse tous les standards et diffuse autour d’elle une explosion de créativité, où qu’elle aille. Fière d’être une bière Ale, elle a un goût plus doux que les autres. Avec son attitude originale pour une bière, elle souhaite montrer à tous qu’il ne faut pas hésiter à s’exprimer.', '2,75€', '5,75%', 'Miel de Chataigner', 11, '75cL'),
+(89542, 'biere', 'Bubble', 'Bubble, d’une composition inédite avec sa base aux Bubble gum, elle nous replonge en enfance et insiste sur le fait d’être soit même. Avec son attitude originale pour une bière, elle souhaite montrer à tous qu’il ne faut pas se cacher derrière une apparence.', '2,75€', '3,80%', 'Chewing-gum', 10, '75cL'),
+(98645, 'biere', 'Zero', 'La Zéro, est une bière blonde sans alcool qui nous permet de savourer son houblon sans avoir mal au crâne. D’une composition 100% naturel et authentique elle ose tout. Fière d’être une bière Ale, elle a un goût plus doux que les autres. Avec son attitude originale pour une bière, elle souhaite montrer à tous qu’il ne faut pas hésiter à oser.', '2,75€', '0%', 'Sans alcool', 5, '75cL');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
