@@ -43,15 +43,15 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
 <div class="ligne">
     <ul>
 <li>
-    <a href="equipe_bubble.php"><img src="public/images/dessins/bubble.png"></a> 
+    <a href="equipe_bubble.php"><img src="public/images/dessins/bubble.png" alt="Notre bière au chewing-gum"></a> 
     <p>Bubble</p>
 </li> 
 
-<li><a href="equipe_lime.php"><img src="public/images/dessins/lime.png"></a> 
+<li><a href="equipe_lime.php"><img src="public/images/dessins/lime.png" alt="Notre bière au citron"></a> 
     <p>Lime</p>
 </li>
 
-<li><a href="equipe_pop.php"><img src="public/images/dessins/cerise.png"></a> 
+<li><a href="equipe_pop.php"><img src="public/images/dessins/cerise.png" alt="Notre bière à la cerise"></a> 
     <p>Cherry pop</p>
 <li>
 
@@ -63,17 +63,17 @@ Le partage et la convivialité restent les maîtres-mots de Draft que ce soit en
     <ul>
 
     <li>
-        <a href="equipe_fraise.php"><img src="public/images/dessins/fraise.png"></a>
+        <a href="equipe_fraise.php"><img src="public/images/dessins/fraise.png" alt="Notre bière à la fraise"></a>
         <p>Fraise</p>
     </li>
 
     <li>
-        <a href="equipe_zero.php"><img src="public/images/dessins/zero.png"></a>
+        <a href="equipe_zero.php"><img src="public/images/dessins/zero.png" alt="Notre bière sans alcool"></a>
         <p>Zero</p>
     </li>
 
     <li>
-        <a href="equipe_luciole.php"><img src="public/images/dessins/luciole.png"></a>
+        <a href="equipe_luciole.php"><img src="public/images/dessins/luciole.png" alt="Notre bière luminescente"></a>
         <p>Luciole</p></li>
 </ul>
 
