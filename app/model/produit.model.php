@@ -2,7 +2,16 @@
 
 function getBiere(PDO $dbco): array
 {
-    $sql = "SELECT * FROM produit WHERE taux_alcool>=0";
+    $sql = "SELECT * FROM produit WHERE type='biere'";
+    $query = $dbco->query($sql);
+    $results = $query->fetchAll();
+
+    return $results;
+}
+
+function getGoodies(PDO $dbco): array
+{
+    $sql = "SELECT * FROM produit WHERE type='goodies'";
     $query = $dbco->query($sql);
     $results = $query->fetchAll();
 
