@@ -7,10 +7,10 @@
     font-family: Delliger;
     src: url(../../public/font/DELLIGER-PersonalUse.otf);
   }
-#back{
+.back{
     margin-bottom: 30px;
 }
-#RDV{
+.RDV{
     padding: 125px;
     font-family: Roboto_light;
     justify-content: right;
@@ -23,21 +23,21 @@
     margin-top: 80px;
 
   }
-h1{
+.titre{
     text-align: center;
     font-size: 70px;
     font-family: Delliger;
     margin-bottom: 100px;
 }
 
-#GB{
+.GB{
     justify-content: left;
  margin-left: 30px;   
 width: 250px;
 
 }
 
-h2{
+.date{
     margin-left: 20px;
     text-align: center;
     font-size: 30px;
