@@ -8,7 +8,8 @@
     <meta name="keywords" content="bière, brasserie, locale, jeune, dynamique, street art">
     <meta name="author" content="DRAFT">
     <meta name="description" content="Site officiel de Draft, une brasserie jeune, dynamique et locale qui a pour but d'encourager les gens laisser s'exprimer leur créativité">
-</head>
+    <link rel="icon" type="image/x-icon" href="public/images/Logo/lgo_bgnoir.png">
+  </head>
 <body>
   <header>
 <nav id="wrap">
