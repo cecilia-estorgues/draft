@@ -1,0 +1,44 @@
+@font-face {
+    font-family: Roboto_light;
+    src: url(../../public/font/Roboto-Light.ttf);
+  }
+
+  @font-face {
+    font-family: Delliger;
+    src: url(../../public/font/DELLIGER-PersonalUse.otf);
+  }
+
+
+
+
+form{
+    margin: 30px 40% 0 15px;
+    text-align: right;
+    color: #6c10e8;
+    font-family:Roboto_light;
+}
+h1{
+    font-family: Delliger;
+    font-size:100px ;
+    text-align: center;
+}
+input{
+    /*text-align: center;*/
+    border: 2px solid #6c10e8;
+    border-radius: 25px;
+    margin: 5px;
+    padding: 2px 20px;
+}
+
+
+.button {
+  border: 2px solid #9afb04;
+    border-radius: 25px;
+    background-color: #9afb04;
+    color: black;
+    font-family:Roboto_light;
+    padding: 10px 15px;
+    margin-bottom: 50px;
+    align-items: center;
+
+}
