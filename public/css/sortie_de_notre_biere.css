@@ -24,10 +24,13 @@ main section .gaucheee {
 
 
 #contenue{
+
   display:flex;
   background-image: url(../images/background/peint_bleu.png);
   background-repeat:no-repeat;
-  background-size:contain;
+  background-size:75%;
+  background-position: 15vw;;
+  background-position-y:2vw;
 }
 
 

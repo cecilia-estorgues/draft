@@ -32,7 +32,7 @@
                     <h3 class="txt3">Bienvenue chez nous, </br> la micro-brasserie de Moissy-Cramayel 77550</h3>
         <p class="txt">Nous sommes une jeune équipe de 10 camarades, qui vient de créer ses propres bières originelles et atypiques, et qui
                         à décider d'installer sa brasserie dans la ville de  Moissy-Cramayel dans le 77. Nous vous attendons nombreux avec votre
-                        créativité et vos pensées positives pour venir gouter notre production.</p></div>
+                        créativité et vos pensées positives pour venir goûter notre production.</p></div>
 
                         </section>
 
@@ -55,7 +55,7 @@
                         <img src="public/images/mockup/zero.png" alt='Bouteille de bière sans alcool'>
                     </div>
                     <div class="box-web">
-                        <img src="public/images/mockup/bubble_gum.png" alt='Bouteille de bière au chewing-gum'>
+                        <img src="public/images/mockup/bubble.png" alt='Bouteille de bière au chewing-gum'>
                     </div>
                     <div class="box-web">
                         <img src="public/images/mockup/lime.png" alt='Bouteille de bière au citron'>

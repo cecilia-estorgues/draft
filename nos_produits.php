@@ -5,8 +5,9 @@ require_once 'app/model/produit.model.php';
 
 $css="produit.css";
 $dbco=getdbco();
-$nos_produits = getProduit($dbco);
-$nos_produits = Linknametoref($nos_produits, $dbco);
+$nos_bieres= getBiere($dbco);
+$nos_goodies= getGoodies($dbco);
+
 
 $page_title = 'Nos produits';
 

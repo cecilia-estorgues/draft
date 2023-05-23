@@ -1,24 +1,30 @@
 <main>
     <div class="container biere">
-        <?php foreach ($nos_produits as $produit) : ?>
+        <?php foreach ($nos_bieres as $biere) : ?>
             <div class="biere">
                 <figure>
                     <a href="">
-                        <img src="public/images/pokemon/small/<?= $produit['nom_produit'] ?>.png" alt="<?= $produit['nom_produit'] ?>">
+                        <img src="public/images/mockup/<?= $biere['nom_produit'] ?>.png" alt="<?= $biere['nom_produit'] ?>">
                     </a>
                 </figure>
                 <div class="description">
-                    <p class="pokemon-nom"><?= $produit['nom_produit'] ?></p>
-                    <div class="types">
-                        <ul>
-                            <?php foreach ($produit['particularite'] as $spe) : ?>
-                                <li class="type--<?= convertType2Class($spe) ?>"><?= $spe ?></li>
-                            <?php endforeach ?>
-                        </ul>
-                    </div>
+                    <p class="biere-nom"><?= $biere['nom_produit'] ?></p>
                 </div>
             </div>
         <?php endforeach ?>
-
+    </div>
+    <div class="container biere">
+        <?php foreach ($nos_goodies as $goodies) : ?>
+            <div class="biere">
+                <figure>
+                    <a href="">
+                        <img src="public/images/mockup/<?= $goodies['nom_produit'] ?>.png" alt="<?= $goodies['nom_produit'] ?>">
+                    </a>
+                </figure>
+                <div class="description">
+                    <p class="biere-nom"><?= $goodies['nom_produit'] ?></p>
+                </div>
+            </div>
+        <?php endforeach ?>
     </div>
 </main>

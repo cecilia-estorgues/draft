@@ -29,6 +29,7 @@ $dbco= getdbco();
 try {
 $success = insertNewProduit($_POST['type'], $_POST['nom'], $_POST['descr'], $_POST['prix'], $_POST['taux'], $_POST['particul'], $_POST['ibu'], $_POST['volume'], $dbco);
 $msg = "Le nouveau talent a bien été enregistré";
+echo "Nouveau produit enregistrer avec succès";
 } catch (PDOException $e){
 $msg = "Il y'a eu un problème avec l'enregistrement du talent";
 echo $e->getMessage();
