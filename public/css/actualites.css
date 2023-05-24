@@ -128,13 +128,11 @@ padding-left:19vw;
     background-repeat: no-repeat;
     background-size:35vw;
     background-position: 1.5vw;
-    padding-top:vw;
+    width:;
+    margin-right:vw;
 }
 
-#droite2 img{
-    
-    padding-left:45vw;
-}
+
 
 #droite2 p{
 
@@ -143,6 +141,7 @@ margin-left:7vw;
 font-size:2vw;
 width: 25vw;
 margin-top:15vw;
+margin-right:5vw;
 }
 
 #btn-2{
