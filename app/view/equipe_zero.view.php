@@ -6,8 +6,9 @@
             <div id="texte">
                 <h2>Zero</h2>
                 <h3>Osez</h3> 
-                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod </p>
-    
+                <p>
+                La Zéro, est une bière blonde sans alcool qui nous permet de savourer son houblon sans avoir mal aux crane. D’une composition 100% naturel et authentique elle ose tout. Fière d’être une bière Ale, elle a un gout plus doux que les autres. Avec son attitude originale pour une bière, elle souhaite montrer à tous qu’il ne faut pas hésiter à oser.
+              </p>
             </div>
             <div id="boutton">
             <button><a href="">La bière</a></button>

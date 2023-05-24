@@ -6,8 +6,9 @@
             <div id="texte">
                 <h2>Fraise</h2>
                 <h3>Restez déterminés</h3> 
-                <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod bibendum laoreet. Proin gravida dolor sit amet lacus accumsan et viverra justo commodo. Proin sodales pulvinar tempor. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam fermentum, nulla luctus pharetra vulputate, felis tellus mollis orci, sed rhoncus sapien nunc eget odio. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean euismod </p>
-    
+                <p>
+                Fraise, une bière blanche est d’une composition fruitières inédite avec sa fraise, elle casse tous les standards et diffuse autour d’elle une détermination. Fière d’être une bière, elle a un gout fruité. Avec son attitude originale pour une bière, elle souhaite de ne jamais baisser les bras.     
+              </p>
             </div>
             <div id="boutton">
             <button><a href="https://www.crazygames.fr/jeu/pixel-wars-of-hero%22%3E">La bière</a></button>
