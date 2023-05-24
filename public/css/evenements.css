@@ -11,17 +11,22 @@
     margin-bottom: 30px;
 }
 .RDV{
-    padding: 125px;
-    font-family: Roboto_light;
-    justify-content: right;
+  margin-left: 150px;
+  margin-bottom: 172px;
+  padding: 52px;
+  font-family: Roboto_light;
+  margin-right: 150px;
+  justify-content: center;
+ display: flex;
    
   }
 
   div{
-    display: flex;
+   
     margin-bottom: 20px;
     margin-top: 80px;
-
+    justify-content: center;
+ display: flex;
   }
 .titre{
     text-align: center;
@@ -31,16 +36,19 @@
 }
 
 .GB{
-    justify-content: left;
- margin-left: 30px;   
+  display: flex;
+  margin-bottom: 20px;
+  margin-top: 80px;
+  justify-content: center;
+
 width: 250px;
 
 }
 
 .date{
-    margin-left: 20px;
-    text-align: center;
-    font-size: 30px;
+  margin-bottom: -56px;
+  justify-content: center;
+  display: flex;
     
 }
 
