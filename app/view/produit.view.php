@@ -4,7 +4,7 @@
         <?php foreach ($nos_bieres as $biere) : ?>
             <div class="biere">
 
-                    <a href="">
+                    <a href="produit.php?nom=<?= $biere['nom_produit']?>">
                         <img src="public/images/mockup/<?= $biere['nom_produit'] ?>.png" alt="<?= $biere['nom_produit'] ?>">
                     </a>
 

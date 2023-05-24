@@ -1,4 +1,4 @@
-img{
+.biere img{
     width: 100%;
     height: 50%;
 }
@@ -28,11 +28,7 @@ img{
 
 }
 
-.goodies{
-    width: 33vw;
-    height: 100vh;
-    text-align: center;
-    align-items: center;
-
+.goodies img{
+    height: 50%;
 }
 
