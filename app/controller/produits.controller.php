@@ -2,7 +2,7 @@
 
 require_once 'app/model/databaseco.php';
 require_once 'app/model/produit.model.php';
-require_once 'app/produit.php';
+require_once 'produit.php';
 
 function getProduit(PDO $dbco): array{
     $sql = "SELECT * FROM produit";
