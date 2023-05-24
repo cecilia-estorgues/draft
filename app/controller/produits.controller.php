@@ -4,8 +4,10 @@ require_once 'app/model/databaseco.php';
 require_once 'app/model/produit.model.php';
 require_once 'produit.php';
 
+
 function getProduit(PDO $dbco): array{
-    $sql = "SELECT * FROM produit";
+    $nomproduit = $_GET['nom'];
+    $sql = "SELECT * FROM produit WHERE nom_produit=$nomproduit";
     $query = $dbco->query($sql);
     $results = $query->fetchAll();
 
@@ -14,20 +16,14 @@ function getProduit(PDO $dbco): array{
 
 
 
-function generateProduitPage($Produit) 
+function generateProduitPage($nomproduit) 
 {
-    $db = getdbco();
-    $reference = $Produit['reference'];
-    $nom_produit = $Produit['nom_produit'];
-    $type = $Produit['type'];
-    $description = $Produit['description'];
-    $prix = $Produit['prix'];
-    $taux_alcool = $Produit['taux_alcool'];
-    $particularite = $Produit['particularite'];
-    $IBU = $Produit['ibu']; 
+    $dbco = getdbco();
+    $produit= getProduit($dbco);
+    var_dump($produit);
 
     // Génération de la page à partir de la vue et du layout
-    $page_title = $Produit['nom_produit'];
+    $page_title = $produit['nom_produit'];
     ob_start();
     require_once 'app/view/produit.view.php';
     $content = ob_get_clean();
