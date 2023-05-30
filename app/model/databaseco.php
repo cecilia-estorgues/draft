@@ -4,7 +4,7 @@ function getdbco(): PDO
 {
 $dsn="mysql:host=localhost;dbname=draft;charset=utf8";
 $user="root";
-$pass="root";
+$pass="";
     
     try{
         

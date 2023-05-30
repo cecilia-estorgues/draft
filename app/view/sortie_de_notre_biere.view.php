@@ -21,9 +21,9 @@
                 Vous pourrez la déguster en notre compagnie lors du festival de la bière le 7 juin.
             </p>
 
-            <button>
+            <a href="evenements.php"><button>
                 Découvrir notre festival
-            </button>
+            </button></a>
 
         </div>
     </section>
