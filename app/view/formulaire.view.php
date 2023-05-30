@@ -1,5 +1,5 @@
 <main>
-<h1>Nouveau commande</h1>
+<h1>Nouvelle commande</h1>
 <div class="container">
     <div class="message">
      
