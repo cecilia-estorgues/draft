@@ -1,9 +1,9 @@
 <main>
 <h1 class = "titre">Festival</h1> 
  
-<div class = "back"><img src="public/images/background/FestiBack.png" alt="Festival Enzyme"></img></div>
+<div class = "back"><img src="public/images/background/FestiBack.png" alt="Festival Enzyme"></div>
 
-<div>  <img class  ="GB"src = "public/images/poster/GBposter.jpg" alt="Affiche Festival"></img>
+<div>  <a href="public/images/poster/GBposter.jpg"> <img class  ="GB"src = "public/images/poster/miniGBposter.jpg" alt="Affiche Festival"> </a>
 </div>
 <h2 class ="date">7 juin 2023</h2> 
 
