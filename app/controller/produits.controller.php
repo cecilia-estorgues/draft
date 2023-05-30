@@ -23,7 +23,7 @@ function generateProduitPage($nomproduit)
     var_dump($produit);
 
     // Génération de la page à partir de la vue et du layout
-    $page_title = $produit['nom_produit'];
+    $page_title = $nomproduit;
     ob_start();
     require_once 'app/view/produit.view.php';
     $content = ob_get_clean();
