@@ -10,6 +10,11 @@
 .back{
     margin-bottom: 30px;
 }
+
+body{
+  overflow-x:hidden;
+}
+
 .RDV{
   margin-left: 150px;
   margin-bottom: 172px;
