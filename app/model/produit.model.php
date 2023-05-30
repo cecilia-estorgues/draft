@@ -18,8 +18,20 @@ function getGoodies(PDO $dbco): array
     return $results;
 }
 
-function convertType2Class(string $spe): string
+function getProduit(string $nomproduit, $dbco): array{
+    $dbco=getdbco();
+    $sql="SELECT * FROM produit WHERE nom_produit=:nom";
+    $stmt=$dbco->prepare($sql);
+    $stmt->bindParam('nom', $nomproduit);
+    $stmt->execute();
+    $results = $stmt->fetchAll();
+    return $results;
+}
+
+
+
+function generateProduitPage($nomproduit) 
 {
-    $str = strtolower($spe);
-    return preg_replace('/(é|è)/', 'e', $str);
+    $dbco = getdbco();
+    $produit= getProduit($nomproduit, $dbco);
 }
