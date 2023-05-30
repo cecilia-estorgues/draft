@@ -1,12 +1,40 @@
-<main>
-<h2>Nos dernières commandes !<h2>
-    <?php
-        mysqli_connect($databaseco);
-        $query = "SELECT * FROM commande";
-        $result = mysqli_query($conn, $query);
+<h2>Nos commandes</h2>
+        <div class="container" id="commandes">
+        <?php foreach ($nos_commandes as $biere) : ?>
+            <div class="commande">
+<table>
+<thead>
+    <tr>
+  <th colspan="1">num_client</th>
+  <th colspan="1">adresse</th>
+  <th colspan="1">code_postal</th>
+  <th colspan="1">ville</th>
+  <th colspan="1">mail</th>
+  <th colspan="1">quantite</th>
+        </tr>
+</thead>
 
-        while ($row = mysqli_fetch_assoc($result)) {
-            echo "ID de commande : " . $row['id_commande'] ;
-            echo "Nom du client : " . $row['nom_client'] ;
-        }
-         
+<tbody>
+        <tr>
+            <td><?= $biere['nom'] ?></td>
+            <td><?= $biere['prenom'] ?></td>
+  <td><?= $biere['adresse'] ?></td>
+  <td><?= $biere['code_postal'] ?></td>
+            <td><?= $biere['ville'] ?></td>
+  <td><?= $biere['mail'] ?></td>
+        </tr>
+    </tbody>
+        </table>
+
+
+
+
+
+
+            
+            </div>
+        <?php endforeach ?>
+
+
+
+</main>
