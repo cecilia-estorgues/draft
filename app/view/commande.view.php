@@ -1,7 +1,7 @@
 
 <h2>Nos commandes</h2>
-        <div class="container" id="commandes">
-        <?php foreach ($nos_commandes as $biere) : ?>
+        <div class="container" id="commande">
+        <?php foreach ($nos_commande as $biere) : ?>
             <div class="commande">
 <table>
 <thead>
