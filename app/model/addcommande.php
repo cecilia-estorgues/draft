@@ -1,6 +1,6 @@
 <?php
 
-function insertNewCommand(string $nom, string $quantite,string $Identifiant, PDO $dbco): bool
+function insertNewCommande(string $nom, string $quantite,string $Identifiant, PDO $dbco): bool
 {
     try {
 $sql = "INSERT INTO commande ( nom, , num_client)
