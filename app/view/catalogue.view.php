@@ -20,7 +20,7 @@
         <?php foreach ($nos_goodies as $goodies) : ?>
             <div class="goodies">
 
-                    <a href="">
+                    <a href="produit.php?nom=<?= $goodies['nom_produit']?>">
                         <img src="public/images/goodies/<?= $goodies['nom_produit'] ?>.png" alt="<?= $goodies['nom_produit'] ?>">
                     </a>
 

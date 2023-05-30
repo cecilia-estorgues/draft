@@ -24,14 +24,7 @@ function getProduit(string $nomproduit, $dbco): array{
     $stmt=$dbco->prepare($sql);
     $stmt->bindParam('nom', $nomproduit);
     $stmt->execute();
-    $results = $stmt->fetchAll();
-    return $results;
+    $result= $stmt->fetch();
+    return $result;
 }
 
-
-
-function generateProduitPage($nomproduit) 
-{
-    $dbco = getdbco();
-    $produit= getProduit($nomproduit, $dbco);
-}
