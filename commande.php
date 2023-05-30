@@ -4,8 +4,9 @@ require_once 'app/model/databaseco.php';
 require_once 'app/model/commande.model.php';
 
 $dbco=getdbco();
-$nos_commandes= getClient($dbco);
+$nos_commandes= getCommande($dbco);
 $page_title= 'Commandes Clients';
+$css='commandeverif.css';
 
 
 ob_start();
