@@ -46,22 +46,22 @@
 
                 <div class="row">
                     <div class="box-web">
-                        <img src="public/images/mockup/fraise.png" alt='Bouteille de bière à la fraise'>
+                        <img src="public/images/mockup/index/fraise.png" alt='Bouteille de bière à la fraise'>
                     </div>
                     <div class="box-web">
-                        <img src="public/images/mockup/cherry_pop.png" alt='Bouteille de bière à la cerise'>
+                        <img src="public/images/mockup/index/cherry_pop.png" alt='Bouteille de bière à la cerise'>
                     </div>
                     <div class="box-web">
-                        <img src="public/images/mockup/zero.png" alt='Bouteille de bière sans alcool'>
+                        <img src="public/images/mockup/index/zero.png" alt='Bouteille de bière sans alcool'>
                     </div>
                     <div class="box-web">
-                        <img src="public/images/mockup/bubble.png" alt='Bouteille de bière au chewing-gum'>
+                        <img src="public/images/mockup/index/bubble.png" alt='Bouteille de bière au chewing-gum'>
                     </div>
                     <div class="box-web">
-                        <img src="public/images/mockup/lime.png" alt='Bouteille de bière au citron'>
+                        <img src="public/images/mockup/index/lime.png" alt='Bouteille de bière au citron'>
                     </div>
                     <div class="box-web">
-                        <img src="public/images/mockup/luciole.png" alt='Bouteille de bière luminescente'>
+                        <img src="public/images/mockup/index/luciole.png" alt='Bouteille de bière luminescente'>
                     </div>
                 </div>
             </div>
