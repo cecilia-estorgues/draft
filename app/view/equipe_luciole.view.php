@@ -11,7 +11,7 @@
       </p>
             </div>
             <div id="boutton">
-            <button><a class="lien" href="">La bière</a></button>
+            <button><a class="lien" href="produit.php?nom=Luciole">La bière</a></button>
             </div>
 
         </main>
