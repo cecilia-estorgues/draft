@@ -5,7 +5,7 @@
             <div class="biere">
 
                     <a href="produit.php?nom=<?= $biere['nom_produit']?>">
-                        <img src="public/images/mockup/<?= $biere['nom_produit'] ?>.png" alt="<?= $biere['nom_produit'] ?>">
+                        <img src="public/images/mockup/<?= $biere['nom_produit'] ?>ink.png" alt="<?= $biere['nom_produit'] ?>">
                     </a>
 
 
