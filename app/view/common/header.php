@@ -21,6 +21,7 @@
           <a class= "survole" href="nos_produits.php">Nos produits</a>
           <ul>
             <li><a class= "survole" href="nos_bieres.php">Nos bières</a></li>
+     ²
             <li><a class= "survole" href="nos_goodies.php">Nos goodies</a></li>
           </ul>
         </li>
