@@ -11,7 +11,7 @@
 </p>
             </div>
             <div id="boutton">
-            <button><a href="https://www.crazygames.fr/jeu/pixel-wars-of-hero%22%3E">La biere</a></button>
+            <button><a class="lien" href="produit.php?nom=Bubble">La biere</a></button>
             </div>
 
         </main>
