@@ -6,7 +6,7 @@
     <div>
         <div id="img">
         <?php if($produit['type']=='biere') : ?>
-            <img src="public/images/mockup/<?= $nomproduit?>.png" alt="<?= $produit['nom_produit']?>">
+            <img src="public/images/mockup/index/<?= $nomproduit?>.png" alt="<?= $produit['nom_produit']?>">
         <?php else : ?>
             <img src="public/images/goodies/<?= $produit['nom_produit'] ?>.png" alt="<?= $produit['nom_produit']?>">
         <?php endif ?>
