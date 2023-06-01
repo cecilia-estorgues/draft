@@ -1,13 +1,13 @@
 .biere img{
-    width: 100%;
-    height: 50%;
+    width: 90%;
+    height: 50vh;
 }
 
 .biere{
-    width: 33%;
-    height: 33%;
+    width: 33vw;
+    height: 30%;
     text-align: center;
-    margin-bottom: 3%;
+    margin-bottom: 5%;
 }
 
 #bieres{
@@ -52,5 +52,9 @@ h2{
 
 h4{
     font-family: Roboto_light;
-    
+
+}
+
+a img:hover{
+    transform: scale(1.1);
 }

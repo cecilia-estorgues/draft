@@ -2,7 +2,7 @@
 
 require_once 'app/model/databaseco.php';
 require_once 'app/model/produit.model.php';
-$css="produit.css";
+$css="solo.css";
 $nomproduit = $_GET['nom'] ;
 if (empty($_GET['nom'])) {
     die('Page introuvable');

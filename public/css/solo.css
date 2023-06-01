@@ -1,0 +1,61 @@
+.content{
+    display: flex;
+    background-image: url(../images/bgdessin/Verrebg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+h1{
+    font-family: Delliger;
+    color: white;
+    font-size: 3em;
+}
+
+p, li, div{
+    font-family: Roboto_light;
+    color: white;
+}
+
+main img{
+    height:70vh;
+}
+
+#droite{
+    margin-top: 10vh;
+    margin-right: 30vw;
+}
+
+#titre{
+    display: flex;
+}
+
+#vol{
+    margin-top: 6vh;
+    margin-left: 5%;
+}
+
+.bouton{
+    background-color: red;
+    border-radius: 10px;
+    font-size: 1.5em;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+#boutons{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#achat:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
