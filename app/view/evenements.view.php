@@ -3,8 +3,7 @@
  
 <div class = "back"><img src="public/images/background/FestiBack.png" alt="Festival Enzyme"></div>
 
-<div>  <a href="public/images/poster/GBposter.jpg"> <img class  ="GB"src = "public/images/poster/miniGBposter.jpg" alt="Affiche Festival"> </a>
-</div>
+
 <h2 class ="date">7 juin 2023</h2> 
 
 <p class ="RDV">Retrouvez nous au festival de la bière se déroulant le 7 juin à la  brasserie. 
