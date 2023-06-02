@@ -13,7 +13,7 @@
                     <img src="public/images/background/tache_jaune.png">
 
                     <p>La Butineuse, d’une composition inédite avec son miel de châtaignier, casse tous les standards et diffuse autour d’elle une explosion de créativité, où qu’elle aille. Fière d’être une bière Ale…</p>
-                    <a href="#"> <button id="btn-1" tabindex="-1">En savoir plus</button> </a>
+                    <a href="produit.php?nom=La%20butineuse"> <button id="btn-1" tabindex="-1">En savoir plus</button> </a>
                 </div>
                 <div id="droite1"><img src="public/images/mockup/butineuse_vmaxou2.png" alt="Notre bière la Butineuse">
                 </div>

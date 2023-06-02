@@ -8,7 +8,8 @@
             <?php endif ?>
         </div>
         <div id="droite">
-            <div id="titre">
+            <a name="biere">
+            <div id="titre"> </a>
                 <h1 id="head"><?= $nomproduit ?></h1>
                 <p id="vol"><?=$produit['volume'] ?></p>
             </div>
