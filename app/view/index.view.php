@@ -49,7 +49,7 @@
                         <img src="public/images/mockup/index/fraise.png" alt='Bouteille de bière à la fraise'>
                     </div>
                     <div class="box-web">
-                        <img src="public/images/mockup/index/cherry_pop.png" alt='Bouteille de bière à la cerise'>
+                        <img src="public/images/mockup/index/Cherry_pop.png" alt='Bouteille de bière à la cerise'>
                     </div>
                     <div class="box-web">
                         <img src="public/images/mockup/index/zero.png" alt='Bouteille de bière sans alcool'>
