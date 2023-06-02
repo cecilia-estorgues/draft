@@ -1,5 +1,5 @@
 <main>
-     <h2>Nos bières</h2>
+     <h2 id="biere">Nos bières</h2>
         <div class="container" id="bieres">
         <?php foreach ($nos_bieres as $biere) : ?>
             <div class="biere">
@@ -14,7 +14,7 @@
             </div>
         <?php endforeach ?>
     </div>
-            <h2>Nos goodies</h2>
+            <h2 id="goodie">Nos goodies</h2>
     <div class="container" id="goodies">
 
         <?php foreach ($nos_goodies as $goodies) : ?>
