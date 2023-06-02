@@ -20,9 +20,9 @@
         <li>
           <a class= "survole" href="nos_produits.php">Nos produits</a>
           <ul>
-            <li><a class= "survole" href="nos_produits.php\#biere">Nos bières</a></li>
+            <li><a class= "survole" href="nos_produits.php#biere">Nos bières</a></li>
 
-            <li><a class= "survole" href="nos_goodies.php">Nos goodies</a></li>
+            <li><a class= "survole" href="nos_produits.php#goodie">Nos goodies</a></li>
           </ul>
         </li>
         <li>
