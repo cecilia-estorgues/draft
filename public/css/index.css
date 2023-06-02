@@ -1,3 +1,14 @@
+@font-face {
+  font-family: Roboto_light;
+  src: url(../../public/font/Roboto-Light.ttf);
+}
+
+@font-face {
+  font-family: Delliger;
+  src: url(../../public/font/DELLIGER-PersonalUse.otf);
+}
+
+
 body {
     margin:0;
     
@@ -36,7 +47,7 @@ color:white;
 
 #lvioleto h2{
   padding-top:10vw;
-  font-family:'DELLIGER', arial;
+  font-family:DELLIGER, arial;
   color:white;
   font-size: 4vw;
 
@@ -91,7 +102,7 @@ padding-top:3vw;
   margin-top:-48vw;
   text-align:center;
   color:white;
-  font-family:'DELLIGER', arial;
+  font-family:DELLIGER, arial;
   font-size:5vw;
   background-color: rgba(0, 0, 0, 0.468);  
   border-radius: 16px;
@@ -110,7 +121,7 @@ padding-top:3vw;
   padding-bottom: 3vw;
   color:white;
   font-size: 2vw;
-
+font-family: Roboto_light , arial;
   background-color: rgba(0, 0, 0, 0.468);  
   border-radius: 16px;
 }
@@ -161,7 +172,7 @@ background-color: #FF6700;
 }
 
 h1{
-  font-family:  'DELLIGER', arial;
+  font-family:  DELLIGER, arial;
 }
 
 .container {
